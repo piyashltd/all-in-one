@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="All in One", 📺 Channels Playlist
 https://raw.githubusercontent.com/Piyash-ORG/All-in-One-/refs/heads/main/channels.m3u
-
-#EXTINF:-1 group-title="All in One", 🎬 Movies Playlist
 https://raw.githubusercontent.com/Piyash-ORG/All-in-One-/refs/heads/main/movies.m3u
-
-#EXTINF:-1 group-title="All in One", 🎞️ TV Series Playlist
-https://raw.githubusercontent.com/Piyash-ORG/All-in-One-/refs/heads/main/tv-series.m3u
+https://raw.githubusercontent.com/Piyash-ORG/All-in-One-/refs/heads/main/tv-series.m3uu
