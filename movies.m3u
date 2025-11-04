@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/KGF%20Chapter%202.jpg",KGF Chapter 2 (2025)
+https://stream.mux.com/fgfl2gbDfwSVRnVmikU7jye645oDewD501fUbBH2LVso.m3u8
+#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Pailwaan.jpeg",Pailwaan
+https://stream.mux.com/fgfl2gbDfwSVRnVmikU7jye645oDewD501fUbBH2LVso.m3u8
 #EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Icche%20Ghuri.jpg",Ishtangaa - Icche Ghuri (2025)
 https://stream.mux.com/00EWg8tvd2lIF3Q00GohnYZlDdZH9o3i2OnIqJo4wWaKs.m3u8
 #EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Dhongsho.jpg",Ragada - Dhongsho (2025)
