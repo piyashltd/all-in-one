@@ -21,7 +21,7 @@ https://piyashltd.github.io/all-in-one/index.m3u or https://tinyurl.com/bd-strea
 
 1. Install any IPTV Player such as:  
    - **TiviMate**  (Android TV)
-   - **IPTV** (Android TV)
+   - **IPTV Apk** (Android TV)
    - **IPTV Smarters Pro**  
    - **XCIPTV Player**  
    - **OTT Navigator**  
