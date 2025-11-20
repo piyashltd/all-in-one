@@ -1,52 +1,54 @@
 name: Combine M3U Playlists
 
 on:
-  # এই workflow কখন রান করবে?
+  # 
   push:
     branches:
-      - main  # আপনার প্রধান ব্রাঞ্চের নাম যদি 'master' হয়, তবে এটি পরিবর্তন করুন
+      - main  # 
     paths:
-      # শুধুমাত্র এই ফাইলগুলো পরিবর্তন হলেই রান করবে
+      # 
       - 'channels.m3u'
       - 'movies.m3u'
       - 'series.m3u'
-      # এখানে আপনার অন্য সব M3U ফাইলের নাম যোগ করুন
+      - 'funny.m3u'
+      # 
 
-# **এটিই মূল সমাধান: GitHub Actions-কে আপনার রেপোজিটরিতে লেখার (Write) অনুমতি দেবে**
+# **
 permissions:
   contents: write 
 
 jobs:
   build:
-    runs-on: ubuntu-latest # একটি লিনাক্স সার্ভারে রান হবে
+    runs-on: ubuntu-latest # 
 
     steps:
-      # ১. কোডগুলো সার্ভারে ডাউনলোড করা
+      # 
       - name: Checkout repository
         uses: actions/checkout@v4
-        # GITHUB_TOKEN ব্যবহার করে Write পারমিশন নিশ্চিত করা
+        # 
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ২. প্লেলিস্ট ফাইলগুলো একত্রিত করা
+      # 
       - name: Combine M3U files
         run: |
-          # index.m3u ফাইলটি তৈরি শুরু করুন এবং একটি হেডার দিন
+          # index.m3u 
           echo '#EXTM3U x-tvg-url="YOUR_EPG_URL_HERE.xml"' > index.m3u
           
-          # প্রতিটি ফাইল থেকে #EXTM3U হেডারটি বাদ দিয়ে বাকি অংশ index.m3u তে যোগ করুন
+          # 
           grep -v "#EXTM3U" channels.m3u >> index.m3u
           grep -v "#EXTM3U" movies.m3u >> index.m3u
           grep -v "#EXTM3U" series.m3u >> index.m3u
-          # আপনার যতগুলো ফাইল আছে, সবগুলো এখানে যোগ করুন
+          grep -v "#EXTM3U" funny.m3u >> index.m3u
+          # 
           
           echo "✅ Playlists combined successfully."
 
-      # ৩. পরিবর্তনগুলো স্বয়ংক্রিয়ভাবে কমিট করা ও পুশ করা
-      # যেহেতু 'contents: write' পারমিশন যোগ করা হয়েছে, এটি আর ফেইল করবে না।
+      # 
+      # 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update index.m3u playlist"
-          file_pattern: index.m3u # শুধুমাত্র index.m3u ফাইলটি কমিট করো
+          file_pattern: index.m3u # 
           commit_options: '--no-verify'
