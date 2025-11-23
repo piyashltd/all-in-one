@@ -11,9 +11,9 @@ Watch **Live TV**, **Movies**, and **Web Series** directly from your browser wit
   </a>
 </p>
 
-<p align="center">
-  <a href="https://piyashltd.github.io/all-in-one/index.m3u">📡 Playlist Pages (GitHub Pages)</a>
-</p>
+```
+https://piyashltd.github.io/all-in-one/index.m3u
+```
 
 <br>
 
@@ -52,12 +52,6 @@ https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/index.m3u
 ```
 https://piyashltd.github.io/all-in-one/index.m3u
 ```
-
-### ✅ Normal GitHub File (Replace-Friendly)  
-```
-https://github.com/piyashltd/all-in-one/blob/main/index.m3u
-```
-
 ---
 
 ## 🚀 Getting Started
