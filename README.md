@@ -1,30 +1,105 @@
+
 UltraPlay - IPTV & Movie Player 📺
+
 A modern, fast, and lightweight web player designed for seamless streaming. Watch Live TV, Movies, and Web Series directly from your browser with a premium, Netflix-style dark interface.
+
 <p align="center">
 <a href="https://cinemfl.vercel.app">
 <img src="https://img.shields.io/badge/View_Live_Demo-➡️-e50914.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
 </a>
 </p>
+---
+
 ✨ Key Features
- * ⚙️ Advanced Quality Selector: Automatically detects HLS stream qualities. Users can switch between Auto, 1080p, 720p, etc., using a custom-built, responsive quality menu.
- * 🤖 Smart Recommendations: While watching a channel, the player automatically generates a "You might also like" section, suggesting similar content from the same category.
- * 📂 Dynamic Category Filtering: Automatically parses M3U groups and creates a horizontal, scrollable filter bar to easily navigate between genres (Sports, News, Movies, etc.).
- * 🔓 CORS Proxy Toggle: Built-in settings menu allowing users to enable/disable a CORS proxy, ensuring streams play even if they have cross-origin restrictions.
- * 📱 Fully Responsive UI: Built with Tailwind CSS, featuring a theater-mode video player, grid layouts, and mobile-friendly touch controls.
- * 🚀 Optimized Performance: Uses lazy loading for channel logos to ensure the interface remains fast and smooth, even with large playlists.
+
+⚙️ Advanced Quality Selector
+Auto-detects all HLS qualities — Auto, 1080p, 720p, etc., with a custom responsive menu.
+
+🤖 Smart Recommendations
+While watching, it automatically shows “You might also like” based on category.
+
+📂 Dynamic Category Filtering
+Reads playlists and creates a horizontal scrollable category bar (Sports, News, Movies, etc.).
+
+🔓 CORS Proxy Toggle
+Built-in proxy switch for streams blocked by CORS.
+
+📱 Fully Responsive UI
+Tailwind-based layout optimized for mobile and desktop.
+
+🚀 Optimized Performance
+Lazy-loaded logos + clean JS for ultra-fast browsing.
+
+
+
+---
+
+📡 Playlist (Copy System Included)
+
+নিচের বক্সগুলো থেকে ক্লিক করলেই কপি করতে পারবে:
+
+✅ RAW M3U Link
+
+https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/index.m3u
+
+
+---
+
+✅ GitHub Pages (Raw Output)
+
+https://piyashltd.github.io/all-in-one/index.m3u
+
+
+---
+
+✅ Normal GitHub File (Replace-Friendly)
+
+https://github.com/piyashltd/all-in-one/blob/main/index.m3u
+
+
+---
+
 🚀 Getting Started
- * Launch the Player: Click the "View Live Demo" button above.
- * Select Content: Browse the "Library" or use the top category buttons to filter channels.
- * Player Controls: Click on any card to start playing.
-   * Use the Gear Icon (⚙️) in the player bar to change video quality.
-   * Scroll down to see related channel suggestions.
- * Settings: If a stream doesn't load, click the Settings (⚙️) icon in the top header and enable "CORS Proxy", then reload.
+
+Launch the Player: Click the “View Live Demo” button.
+
+Browse Content: Use the top category bar or library grid.
+
+Player Controls:
+
+Tap any card to start playback
+
+Use the ⚙️ Gear Icon to change quality
+
+Scroll for recommendations
+
+
+If stream fails:
+Header → Settings (⚙️) → Enable CORS Proxy → Reload
+
+
+
+---
+
 🛠️ Built With
- * HTML5 & Vanilla JavaScript (ES6+)
- * Tailwind CSS - For rapid, responsive styling.
- * Video.js - Enterprise-grade video player framework.
- * VideoJS Contrib Quality Levels - Plugin for HLS quality extraction.
- * FontAwesome - For scalable UI icons.
+
+HTML5 & Vanilla JS (ES6+)
+
+Tailwind CSS
+
+Video.js
+
+VideoJS Contrib Quality Levels
+
+FontAwesome Icons
+
+
+
+---
+
 <p align="center">
 Made with ❤️ for streaming enthusiasts.
 </p>
+---
+
+যদি চাই, আমি README-এর জন্য custom banner, PNG logo, badges ও বানিয়ে দিতে পারি 🔥
