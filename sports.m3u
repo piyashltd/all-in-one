@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bplt20.com.bd/images/Bpl-2026-Logo.png" group-title="BPL🔥",Live 1
 http://cors.tundracast.com:2000/https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
+#EXTINF:-1 tvg-logo="https://bplt20.com.bd/images/Bpl-2026-Logo.png" group-title="BPL🔥",Live 2
+http://cors.tundracast.com:2000/https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8
