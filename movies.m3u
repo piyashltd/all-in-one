@@ -1,43 +1,32 @@
 #EXTM3U
-##
 
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Mirai.webp",Mirai (2025)
-https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/119893c7-42b0-4197-8129-855bfacad06b.mp4
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Pushpa%202.webp",Pushpa 2 - The Rule Reloaded Version (2025)
-https://stream.mux.com/FWjRhW7oFZeiQqSN4R0002SKN33bIytk1weHITkoMmq02U.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/KGF%20Chapter%202.jpeg",KGF Chapter 2 (2025)
-https://stream.mux.com/fgfl2gbDfwSVRnVmikU7jye645oDewD501fUbBH2LVso.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Pailwaan.jpg",Pailwaan
-https://stream.mux.com/fgfl2gbDfwSVRnVmikU7jye645oDewD501fUbBH2LVso.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Icche%20Ghuri.jpg",Ishtangaa - Icche Ghuri (2025)
-https://stream.mux.com/00EWg8tvd2lIF3Q00GohnYZlDdZH9o3i2OnIqJo4wWaKs.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Dhongsho.jpg",Ragada - Dhongsho (2025)
-https://stream.mux.com/mGZxBy9Jeb251whAadWqShudYTpvm01CNbyH5FNZYQ1c.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Chandragrohon.webp",Chandragrohon-Grahanam (2025)
-https://stream.mux.com/nuFvGPk4E02KZhHYBzGbe2Oup1fesjPDl8Bw6L1jXk4E.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Shahoshi.webp",Shahoshi (2025)
-https://stream.mux.com/J7rXjrxB67SJCzbFz0001E8aJOuHK3mC5w95lLEWa902MQ.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Saaho.jpg",Saaho (2019)
-https://stream.mux.com/3VMXxbhCjhD6bW00LySSU4fkpR9IMZBkbdoi3muDIBhI.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Raj%20Kidnapper.webp",Bhale Manchi Roju - Raj Kidnapper (2015)
-https://stream.mux.com/ic6rWphODwqyO2wkqugNXg8Gi3026UW02KqB9rc7C64UQ.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/KGF.webp",KGF (2018)
-https://stream.mux.com/ONcuKjKZiJEEKSMndKfXqIf5Gfq9zxn4IyaNZVrqcrQ.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Jersey.webp",Jersey (2019)
-https://stream.mux.com/PBVUxhr00K1wfce66gaqDgkfrLLyZRgGqx02gwv2J7cR4.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Fereshteh.webp",Fereshteh (2025)
+#EXTINF:-1 group-title="Bengali Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Fereshteh.webp",Fereshteh (2025)
 https://stream.mux.com/pu6mLUAAITmNNzzLmXt9T3AZuRHs1MoNUQ99NXeOZj8.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Grahan.jpg",Grahan (2021)
-https://stream.mux.com/gklk7cIKa500IXojnzNVHWw7eGzjbP02USnmwdl02XiOY00.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Tento.webp",Tento (2024)
-https://stream.mux.com/zjZS9j1A36lZLwK3C2mxAPbx02vErzd02ADv1NoqF7MkI.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Alauddin-er-Notebook.webp",Alauddin er Notebook (2025)
-https://stream.mux.com/p6bIoU2QFB6nF00vsZEqq7sc9fvaNQOz01QHW01Es94b100.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Dasavatharam.webp",Dasavatharam (2008)
-https://stream.mux.com/8fNoKr7sD3LDUOiCAKx028Pg2ENhs9Y8yq00gWzsiFlqI.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Sonsuz%20Ask.jpg",Eternal love (2025)
-https://stream.mux.com/fJrmxn00gDkM5as3CR74vTpGDy6VNmb02aBi175eV02JsA.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/The%20Witness%20Hostage.webp",The Witness-Hostage (2025)
-https://stream.mux.com/MSyWXANwJpPYvJP5ItqFGeWeV86ljOVVJkYcEAvzQgk.m3u8
-#EXTINF:-1 group-title="All Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Shyam%20Singha%20Roy.webp",Shyam Singha Roy (2025)
+#EXTINF:-1 group-title="Bengali Dubbed Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Mirai.webp",Mirai (2025)
+https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/119893c7-42b0-4197-8129-855bfacad06b.mp4
+#EXTINF:-1 group-title="Bengali Dubbed Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Pushpa%202.webp",Pushpa 2: The Rule
+https://stream.mux.com/FWjRhW7oFZeiQqSN4R0002SKN33bIytk1weHITkoMmq02U.m3u8
+#EXTINF:-1 group-title="Bengali Dubbed Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/KGF%20Chapter%202.jpeg",KGF: Chapter 2
+https://stream.mux.com/fgfl2gbDfwSVRnVmikU7jye645oDewD501fUbBH2LVso.m3u8
+#EXTINF:-1 group-title="Bengali Dubbed Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/KGF.webp",KGF: Chapter 1
+https://stream.mux.com/ONcuKjKZiJEEKSMndKfXqIf5Gfq9zxn4IyaNZVrqcrQ.m3u8
+#EXTINF:-1 group-title="Bengali Dubbed Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Saaho.jpg",Saaho
+https://stream.mux.com/3VMXxbhCjhD6bW00LySSU4fkpR9IMZBkbdoi3muDIBhI.m3u8
+#EXTINF:-1 group-title="Bengali Dubbed Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Pailwaan.jpg",Pailwaan
+https://stream.mux.com/fgfl2gbDfwSVRnVmikU7jye645oDewD501fUbBH2LVso.m3u8
+#EXTINF:-1 group-title="Bengali Dubbed Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Jersey.webp",Jersey
+https://stream.mux.com/PBVUxhr00K1wfce66gaqDgkfrLLyZRgGqx02gwv2J7cR4.m3u8
+#EXTINF:-1 group-title="Bengali Dubbed Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Shyam%20Singha%20Roy.webp",Shyam Singha Roy
 https://stream.mux.com/QE1W003L5dqj1nrsAwkne021c46stMkCttm02GyW101x2N4.m3u8
+#EXTINF:-1 group-title="Bengali Dubbed Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Raj%20Kidnapper.webp",Bhale Manchi Roju - Raj Kidnapper (2015)
+https://stream.mux.com/ic6rWphODwqyO2wkqugNXg8Gi3026UW02KqB9rc7C64UQ.m3u8
+#EXTINF:-1 group-title="Bengali Dubbed Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Dasavatharam.webp",Dasavatharam (2008)
+https://stream.mux.com/8fNoKr7sD3LDUOiCAKx028Pg2ENhs9Y8yq00gWzsiFlqI.m3u8
+#EXTINF:-1 group-title="Bengali Dubbed Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Grahan.jpg",Grahan (2021)
+https://stream.mux.com/gklk7cIKa500IXojnzNVHWw7eGzjbP02USnmwdl02XiOY00.m3u8
+#EXTINF:-1 group-title="Bengali Dubbed Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Tento.webp",Tento (2024)
+https://stream.mux.com/zjZS9j1A36lZLwK3C2mxAPbx02vErzd02ADv1NoqF7MkI.m3u8
+#EXTINF:-1 group-title="Bengali Dubbed Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/Sonsuz%20Ask.jpg",Eternal Love (2025)
+https://stream.mux.com/fJrmxn00gDkM5as3CR74vTpGDy6VNmb02aBi175eV02JsA.m3u8
+#EXTINF:-1 group-title="Bengali Dubbed Movies" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/poster/The%20Witness%20Hostage.webp",The Witness-Hostage (2025)
+https://stream.mux.com/MSyWXANwJpPYvJP5ItqFGeWeV86ljOVVJkYcEAvzQgk.m3u8
