@@ -8,10 +8,8 @@ on:
     paths:
       # 
       - 'channels.m3u'
-      - 'sports.m3u'
       - 'series.m3u'
       - 'movies.m3u'
-      - 'funny.m3u'
       # 
 
 # **
@@ -38,10 +36,9 @@ jobs:
           
           # 
           grep -v "#EXTM3U" channels.m3u >> index.m3u
-          grep -v "#EXTM3U" sports.m3u >> index.m3u
           grep -v "#EXTM3U" series.m3u >> index.m3u
           grep -v "#EXTM3U" movies.m3u >> index.m3u
-          grep -v "#EXTM3U" funny.m3u >> index.m3u
+          
           # 
           
           echo "✅ Playlists combined successfully."
