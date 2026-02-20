@@ -1,70 +1,69 @@
-
 #########################################
 #  🎬 Entertainment Channels
 #########################################
 
-#EXTINF:-1 tvg-id="134" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/deepto-tv_1.jpg" group-title="Entertainment",Deepto TV
+#EXTINF:-1 tvg-id="134" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/deepto-tv_1.jpg" group-title="Bangladeshi Channels",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/bangla-vision.jpg" group-title="Entertainment",Bangla Vision
+#EXTINF:-1 tvg-id="100" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/bangla-vision.jpg" group-title="Bangladeshi Channels",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 tvg-id="122" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/btv_1.jpg" group-title="Entertainment",BTV
+#EXTINF:-1 tvg-id="122" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/btv_1.jpg" group-title="Bangladeshi Channels",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 tvg-id="131" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/atn-bangla_1.jpg" group-title="Entertainment",ATN Bangla
+#EXTINF:-1 tvg-id="131" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/atn-bangla_1.jpg" group-title="Bangladeshi Channels",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 tvg-id="132" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/channel-i_1.jpg" group-title="Entertainment",Channel I
+#EXTINF:-1 tvg-id="132" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/channel-i_1.jpg" group-title="Bangladeshi Channels",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/Srk-Tv_1.jpg" group-title="Entertainment",Srk TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/Srk-Tv_1.jpg" group-title="Bangladeshi Channels",Srk TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/geo-tv-logo.jpg" group-title="Entertainment",GEO TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/geo-tv-logo.jpg" group-title="International Channels",GEO TV
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/hum-tv_1.jpg" group-title="Entertainment",Hum TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/hum-tv_1.jpg" group-title="International Channels",Hum TV
 https://bongoflixbd.top/test/live.php?id=hum_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/maasranga-tv.jpg" group-title="Entertainment",Maasranga TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/maasranga-tv.jpg" group-title="Bangladeshi Channels",Maasranga TV
 http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 
 ######################################
 #   📰 News Channels
 ######################################
 
-#EXTINF:-1 tvg-id="97" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/jamuna-tv_1.jpg" group-title="News",Jamuna TV
+#EXTINF:-1 tvg-id="97" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/jamuna-tv_1.jpg" group-title="Bangladeshi Channels",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-id="93" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/atn-news_1.jpg" group-title="News",ATN News
+#EXTINF:-1 tvg-id="93" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/atn-news_1.jpg" group-title="Bangladeshi Channels",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-id="94" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/channel-24_1.jpg" group-title="News",Channel 24
+#EXTINF:-1 tvg-id="94" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/channel-24_1.jpg" group-title="Bangladeshi Channels",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-id="102" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/ekattor-tv_1.jpg" group-title="News",Ekattor TV
+#EXTINF:-1 tvg-id="102" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/ekattor-tv_1.jpg" group-title="Bangladeshi Channels",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/independent_1.jpg" group-title="News",Independent TV
+#EXTINF:-1 tvg-id="96" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/independent_1.jpg" group-title="Bangladeshi Channels",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-id="98" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/somoy-tv_1.jpg" group-title="News",Somoy TV
+#EXTINF:-1 tvg-id="98" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/somoy-tv_1.jpg" group-title="Bangladeshi Channels",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-id="65" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/alj.png" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-id="65" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/alj.png" group-title="International Channels",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/geo-news.jpg" group-title="News",GEO News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/geo-news.jpg" group-title="International Channels",GEO News
 https://jk3lz82elw79-hls-live.5centscdn.com/geoNews/playlist.m3u8
 
 ######################################
 #   🏟️ Sports Channels
 ######################################
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/t-sports.jpg",T Sports
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/t-sports.jpg",T Sports
 https://bongoflixbd.top/stream.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/gazi-tv.jpg",Gazi TV
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/gazi-tv.jpg",Gazi TV
 https://bongoflixbd.top/stream.php?id=b1808fb2-8892-49dc-965e-d038e5334995
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/etv.jpg",ETV
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/etv.jpg",ETV
 https://tvsen7.aynascope.net/PeaceTvBanglaHD/index.m3u8?e=1768200046&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5220077092639e59895c7c0d36963663
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/rtv.jpg",RTV
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/rtv.jpg",RTV
 https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1768200051&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=83068a24c64827f0e68d4f62f361f6d6
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/desh-tv.jpg",Desh TV
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/desh-tv.jpg",Desh TV
 https://bongoflixbd.top/stream.php?id=dd8c50e9-5dad-4cb9-9df8-5763e95281ad
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/boishakhi-tv.jpg",Boishakhi TV
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/boishakhi-tv.jpg",Boishakhi TV
 https://bongoflixbd.top/stream.php?id=92890d5c-473a-454c-ad10-2c6c0c91062a
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/bijoy-tv.jpg",Bijoy TV
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/bijoy-tv.jpg",Bijoy TV
 https://bongoflixbd.top/stream.php?id=f7c89459-37bf-4129-904d-33b0a4c0d590
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/image/global-tv.jpg",Global TV
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/image/global-tv.jpg",Global TV
 https://bongoflixbd.top/stream.php?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/image/ananda-tv.jpg",Anando TV
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/image/ananda-tv.jpg",Anando TV
 https://bongoflixbd.top/stream.php?id=a108c4e9-ccfa-42f2-8f8f-169ded28cca2
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/image/news-24.jpg",News 24
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/image/news-24.jpg",News 24
 https://bongoflixbd.top/stream.php?id=2b1a4340-2557-4d57-b77c-657bb30ce0c8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/image/sa-tv.jpg",SA TV
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/image/sa-tv.jpg",SA TV
 https://bongoflixbd.top/stream.php?id=d07563b0-7580-4cbd-a7c9-e67535c0164a
