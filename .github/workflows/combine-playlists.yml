@@ -11,6 +11,7 @@ on:
       - 'series.m3u'
       - 'movies.m3u'
       - 'islamic.m3u'
+      - 'songs.m3u'
       # 
 
 # **
@@ -40,6 +41,7 @@ jobs:
           grep -v "#EXTM3U" series.m3u >> index.m3u
           grep -v "#EXTM3U" movies.m3u >> index.m3u
           grep -v "#EXTM3U" islamic.m3u >> index.m3u
+          grep -v "#EXTM3U" songs.m3u >> index.m3u
           
           # 
           
