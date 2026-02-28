@@ -54,12 +54,13 @@ http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 http://116.204.149.16/globaltv/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/desh-tv.jpg",Desh TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/channel-s.jpg",Channel S
+http://103.229.254.25:7001/play/a060/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/etv.jpg",ETV
+http://103.229.254.25:7001/play/a05x/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/gazi-tv.jpg",Gazi TV
 https://bongoflixbd.top/stream.php?id=b1808fb2-8892-49dc-965e-d038e5334995
-#EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/etv.jpg",ETV
-https://tvsen7.aynascope.net/PeaceTvBanglaHD/index.m3u8?e=1768200046&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5220077092639e59895c7c0d36963663
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/rtv.jpg",RTV
 https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1768200051&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=83068a24c64827f0e68d4f62f361f6d6
 #EXTINF:-1 group-title="Bangladeshi Channels" tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/boishakhi-tv.jpg",Boishakhi TV
