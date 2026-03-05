@@ -27,7 +27,7 @@ jobs:
 
       - name: Combine M3U files
         run: |
-          # Create a fresh index.m3u file with the EPG header (overwrites if already exists)
+          # Create a fresh global index.m3u file in the root directory
           echo '#EXTM3U x-tvg-url="YOUR_EPG_URL_HERE.xml"' > index.m3u
           
           # Define the list of category folders
@@ -38,19 +38,26 @@ jobs:
             if [ -d "$folder" ]; then
               echo "Processing directory: $folder..."
               
-              # Find all .m3u files and append their contents to index.m3u
-              # '-h' hides the filename in the output, '-v' removes the '#EXTM3U' tags from inner files
-              find "$folder" -type f -name "*.m3u" -exec grep -h -v "#EXTM3U" {} + >> index.m3u
+              # Create a fresh local index.m3u inside the specific folder
+              echo '#EXTM3U' > "$folder/index.m3u"
+              
+              # Find all .m3u files EXCEPT index.m3u to prevent duplication
+              # Append the content to the local folder's index.m3u
+              find "$folder" -type f -name "*.m3u" ! -name "index.m3u" -exec grep -h -v "#EXTM3U" {} + >> "$folder/index.m3u"
+              
+              # Append the exact same content to the global index.m3u in the root
+              find "$folder" -type f -name "*.m3u" ! -name "index.m3u" -exec grep -h -v "#EXTM3U" {} + >> index.m3u
             else
               echo "Directory $folder not found. Skipping..."
             fi
           done
           
-          echo "✅ All M3U playlists have been successfully combined into index.m3u."
+          echo "✅ Global and folder-specific index.m3u files generated successfully."
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update index.m3u with latest playlist data"
-          file_pattern: index.m3u
+          commit_message: "Auto-update global and folder-specific index.m3u files"
+          # Commit the root index.m3u and any index.m3u inside the folders
+          file_pattern: 'index.m3u */index.m3u'
           commit_options: '--no-verify'
