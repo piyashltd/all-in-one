@@ -8,7 +8,6 @@ on:
       # Track all .m3u files inside specific folders
       - 'channels/**.m3u'
       - 'series/**.m3u'
-      - 'Series/**.m3u
       - 'movies/**.m3u'
       - 'islamic/**.m3u'
       - 'songs/**.m3u'
