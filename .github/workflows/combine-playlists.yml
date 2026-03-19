@@ -36,10 +36,12 @@ jobs:
           # ==========================================
           
           # Playlists to keep at the top (Unsorted)
-          PRIORITY_FILES=("channels/channels.m3u" "movies/movies.m3u" "islamic/gojol.m3u" "series/aa-ks-s1.m3u" ")
+          # অতিরিক্ত কোটেশন মার্কটি মুছে দেওয়া হয়েছে
+          PRIORITY_FILES=("channels/channels.m3u" "movies/movies.m3u" "islamic/gojol.m3u" "series/aa-ks-s1.m3u")
           
           # Keyword to identify your custom series inside all-series.m3u
-          CUSTOM_SERIES_KEYWORD="Kurulus Osman, Shikari Kuzgun"
+          # একাধিক নামের জন্য | (OR) ব্যবহার করা হয়েছে
+          CUSTOM_SERIES_KEYWORD="Kurulus Osman|Shikari Kuzgun"
           
           # ==========================================
 
@@ -67,7 +69,8 @@ jobs:
           CUSTOM_SERIES_FILE="series/all-series.m3u"
           if [ -f "$CUSTOM_SERIES_FILE" ]; then
             echo "✅ Extracting Custom Series to place at the Top of global index..."
-            grep -v "^#EXTM3U" "$CUSTOM_SERIES_FILE" | sed '/^$/d' | awk '/^#EXTINF/ {printf "%s|", $0; next} {print $0}' | grep -i "$CUSTOM_SERIES_KEYWORD" | sort -f | tr '|' '\n' >> index.m3u
+            # grep -E ব্যবহার করা হয়েছে যাতে একাধিক কিওয়ার্ড কাজ করে
+            grep -v "^#EXTM3U" "$CUSTOM_SERIES_FILE" | sed '/^$/d' | awk '/^#EXTINF/ {printf "%s|", $0; next} {print $0}' | grep -E -i "$CUSTOM_SERIES_KEYWORD" | sort -f | tr '|' '\n' >> index.m3u
           fi
 
           echo "✅ Processing Category Folders..."
@@ -89,17 +92,16 @@ jobs:
                   # Bring all items to a single line
                   grep -v "^#EXTM3U" "$file" | sed '/^$/d' | awk '/^#EXTINF/ {printf "%s|", $0; next} {print $0}' > temp_all.txt
                   
-                  # Regular series (without keyword) - Unsorted
-                  grep -i -v "$CUSTOM_SERIES_KEYWORD" temp_all.txt > top_unsorted.txt
+                  # Regular series (without keyword) - Unsorted (grep -E -v)
+                  grep -E -i -v "$CUSTOM_SERIES_KEYWORD" temp_all.txt > top_unsorted.txt
                   
-                  # Custom series (with keyword) - Sorted A-Z
-                  grep -i "$CUSTOM_SERIES_KEYWORD" temp_all.txt | sort -f > custom_sorted.txt
+                  # Custom series (with keyword) - Sorted A-Z (grep -E)
+                  grep -E -i "$CUSTOM_SERIES_KEYWORD" temp_all.txt | sort -f > custom_sorted.txt
                   
                   # Append both to the folder-specific index.m3u
                   cat top_unsorted.txt custom_sorted.txt | tr '|' '\n' >> "$folder/index.m3u"
                   
                   # Append ONLY the regular (non-keyword) series to the global index.m3u 
-                  # (Because custom series were already added to the Top)
                   if [[ ! " ${PRIORITY_FILES[@]} " =~ " ${file} " ]]; then
                     cat top_unsorted.txt | tr '|' '\n' >> index.m3u
                   fi
