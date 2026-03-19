@@ -36,10 +36,10 @@ jobs:
           # ==========================================
           
           # Playlists to keep at the top (Unsorted)
-          PRIORITY_FILES=("channels/index.m3u" "movies/index.m3u" "islamic/index.m3u")
+          PRIORITY_FILES=("channels/channels.m3u" "movies/movies.m3u" "islamic/gojol.m3u" "series/aa-ks-s1.m3u" ")
           
           # Keyword to identify your custom series inside all-series.m3u
-          CUSTOM_SERIES_KEYWORD="Kurulus Osman"
+          CUSTOM_SERIES_KEYWORD="Kurulus Osman, Shikari Kuzgun"
           
           # ==========================================
 
@@ -135,3 +135,6 @@ jobs:
           commit_message: "Auto-update: Move custom series to global top and sort standard playlists A-Z"
           file_pattern: 'index.m3u */index.m3u'
           commit_options: '--no-verify'
+
+
+ভাই মূল index.m3u এ তো টপ,  sort কোনোটাই কাজ করছেনা,  
