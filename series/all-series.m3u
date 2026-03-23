@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.mux.com/00urvGxEWDhM9795JwqKTUKfzsLXH7ezVGgsLulQ97024/thumbnail.jpg" group-title="Bholebaba Paar Karega S02",Bholebaba Paar Karega S02 (21 Mar 2026) Episode 186
-https://stream.mux.com/00urvGxEWDhM9795JwqKTUKfzsLXH7ezVGgsLulQ97024.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/kaWMznZlmBRAy2LdZX00zmqYFO2HsS3MWlVZuoe9r2Dw/thumbnail.jpg" group-title="Chiroshokha S01",Chiroshokha S01 (21 Mar 2026) Episode 414
-https://stream.mux.com/kaWMznZlmBRAy2LdZX00zmqYFO2HsS3MWlVZuoe9r2Dw.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/2AdsnDA02y7dQRMXZOZopvYR01ZnTyLe8H17ea2V023dlw/thumbnail.jpg" group-title="Compass S01",Compass S01 (21 Mar 2026) Episode 208
-https://stream.mux.com/2AdsnDA02y7dQRMXZOZopvYR01ZnTyLe8H17ea2V023dlw.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/013vv6XBb402xEpxZAkKNFqC1Zt8GL01V65jjmyofowP0200/thumbnail.jpg" group-title="Gangaa S01",Gangaa S01 (21 Mar 2026) Episode 12
-https://stream.mux.com/013vv6XBb402xEpxZAkKNFqC1Zt8GL01V65jjmyofowP0200.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/MWKHiGYwhqFHosuxdQAxq01PimElpUxfj01hl2nxQMzOA/thumbnail.jpg" group-title="Bholebaba Paar Karega S02",Bholebaba Paar Karega S02 (22 Mar 2026) Episode 187
 https://stream.mux.com/MWKHiGYwhqFHosuxdQAxq01PimElpUxfj01hl2nxQMzOA.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/E02EFEBpi01uBF1PzvdMLBBstIo2reRdw88eTeCfNxTf00/thumbnail.jpg" group-title="Chiroshokha S01",Chiroshokha S01 (22 Mar 2026) Episode 415
@@ -51,6 +43,14 @@ https://stream.mux.com/B56NKwWdecJzJ1kX13HPsdxnBOFSKUTPBAI7IWhITHo.m3u8
 https://stream.mux.com/6CIZV00UQJetOaP9T5ufMv7KmoUOT302I6zdeIvgebhjk.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/jd8sw1X83lqhmLGvv8s02sYjqoZiDtPbcJ5Jn02hrpP01Y/thumbnail.jpg" group-title="Kusum S01",Kusum S01 (22 Mar 2026) Episode 290
 https://stream.mux.com/jd8sw1X83lqhmLGvv8s02sYjqoZiDtPbcJ5Jn02hrpP01Y.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/00urvGxEWDhM9795JwqKTUKfzsLXH7ezVGgsLulQ97024/thumbnail.jpg" group-title="Bholebaba Paar Karega S02",Bholebaba Paar Karega S02 (21 Mar 2026) Episode 186
+https://stream.mux.com/00urvGxEWDhM9795JwqKTUKfzsLXH7ezVGgsLulQ97024.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/kaWMznZlmBRAy2LdZX00zmqYFO2HsS3MWlVZuoe9r2Dw/thumbnail.jpg" group-title="Chiroshokha S01",Chiroshokha S01 (21 Mar 2026) Episode 414
+https://stream.mux.com/kaWMznZlmBRAy2LdZX00zmqYFO2HsS3MWlVZuoe9r2Dw.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/2AdsnDA02y7dQRMXZOZopvYR01ZnTyLe8H17ea2V023dlw/thumbnail.jpg" group-title="Compass S01",Compass S01 (21 Mar 2026) Episode 208
+https://stream.mux.com/2AdsnDA02y7dQRMXZOZopvYR01ZnTyLe8H17ea2V023dlw.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/013vv6XBb402xEpxZAkKNFqC1Zt8GL01V65jjmyofowP0200/thumbnail.jpg" group-title="Gangaa S01",Gangaa S01 (21 Mar 2026) Episode 12
+https://stream.mux.com/013vv6XBb402xEpxZAkKNFqC1Zt8GL01V65jjmyofowP0200.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/NFG9Tl600JnXdLVNTj3q5I88pHO4uVv8NtcDQTQ4YelM/thumbnail.jpg" group-title="Compass S01",Compass S01 (21 Mar 2026) Episode 207
 https://stream.mux.com/NFG9Tl600JnXdLVNTj3q5I88pHO4uVv8NtcDQTQ4YelM.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/02QY6gSEZho01VDQKvWHdldDWccn1uUwlIhrGybFfxRws/thumbnail.jpg" group-title="Rangamoti Tirandaj S01",Rangamoti Tirandaj S01 (21 Mar 2026) Episode 534
