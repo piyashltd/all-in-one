@@ -39,7 +39,7 @@ jobs:
           PRIORITY_FILES=("channels/channels.m3u" "movies/movies.m3u" "islamic/gojol.m3u" "series/aa-ks-s1.m3u")
           
           # Keyword to identify your custom series inside all-series.m3u
-          CUSTOM_SERIES_KEYWORD="Kurulus Osman|Shikari Kuzgun"
+          CUSTOM_SERIES_KEYWORD="Kurulus Osman|Shikari Kuzgun|Sa Re Ga Ma Pa - Bangla S03"
           
           # ==========================================
 
