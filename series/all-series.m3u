@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.mux.com/uTOLRsR4ILWV00vef11edyRlh5IHVuYCtd3xuxSZ8Bg8/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (14 Dec 2018) Episode 46
-https://stream.mux.com/uTOLRsR4ILWV00vef11edyRlh5IHVuYCtd3xuxSZ8Bg8.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/FA5xbE3EpNbxC4o1BoOX2QGGIyevX9p3wHcZF027Wpus/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (15 Dec 2018) Episode 47
-https://stream.mux.com/FA5xbE3EpNbxC4o1BoOX2QGGIyevX9p3wHcZF027Wpus.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/NtunkAC02G5v02bh9vsmu6jn5S4eLZL5y7iRcdtTPmdXo/thumbnail.jpg" group-title="Chiroshokha S01",Chiroshokha S01 (23 Mar 2026) Episode 416
 https://stream.mux.com/NtunkAC02G5v02bh9vsmu6jn5S4eLZL5y7iRcdtTPmdXo.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/8DxKMQudoQd3Nf02W1og2a1b265Aapa3u02v5i93C51sE/thumbnail.jpg" group-title="Tumi Chherona Haat Pothe S01",Tumi Chherona Haat Pothe S01 (23 Mar 2026) Episode 166
@@ -1093,29 +1089,33 @@ https://stream.mux.com/ps02zMrbyQ702j4wM3DwvkJKkIb5F7w02dCC7zBjdjEUCs.m3u8
 https://stream.mux.com/WVwN4QofogcYzUDqgseSkUXkvAViitSmpUGYAt3KR48.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/WVwN4QofogcYzUDqgseSkUXkvAViitSmpUGYAt3KR48/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa - Bangla S03 (15 Jun 2019) Episode 78
 https://stream.mux.com/WVwN4QofogcYzUDqgseSkUXkvAViitSmpUGYAt3KR48.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/nax5BnjjvwmQxnS7qDdrgqsHHeUWNbZpzCBvV500MjIk/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (13 Dec 2018) Episode 45
+#EXTINF:-1 tvg-logo="https://image.mux.com/FA5xbE3EpNbxC4o1BoOX2QGGIyevX9p3wHcZF027Wpus/thumbnail.jpg" group-title="Sa Re Ga Ma Pa   Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (15 Dec 2018) Episode 47
+https://stream.mux.com/FA5xbE3EpNbxC4o1BoOX2QGGIyevX9p3wHcZF027Wpus.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/uTOLRsR4ILWV00vef11edyRlh5IHVuYCtd3xuxSZ8Bg8/thumbnail.jpg" group-title="Sa Re Ga Ma Pa   Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (14 Dec 2018) Episode 46
+https://stream.mux.com/uTOLRsR4ILWV00vef11edyRlh5IHVuYCtd3xuxSZ8Bg8.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/nax5BnjjvwmQxnS7qDdrgqsHHeUWNbZpzCBvV500MjIk/thumbnail.jpg" group-title="Sa Re Ga Ma Pa   Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (13 Dec 2018) Episode 45
 https://stream.mux.com/nax5BnjjvwmQxnS7qDdrgqsHHeUWNbZpzCBvV500MjIk.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/IcWsNGzcANdN1l1D2S7w01p6QoPDQvuzdlGgNxgZxLRk/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (12 Dec 2018) Episode 44
+#EXTINF:-1 tvg-logo="https://image.mux.com/IcWsNGzcANdN1l1D2S7w01p6QoPDQvuzdlGgNxgZxLRk/thumbnail.jpg" group-title="Sa Re Ga Ma Pa   Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (12 Dec 2018) Episode 44
 https://stream.mux.com/IcWsNGzcANdN1l1D2S7w01p6QoPDQvuzdlGgNxgZxLRk.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/G00kfgZr02u6JgaL2rEf02siEN01DzOf1PocVkzU02zK9Xok/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (11 Dec 2018) Episode 43
+#EXTINF:-1 tvg-logo="https://image.mux.com/G00kfgZr02u6JgaL2rEf02siEN01DzOf1PocVkzU02zK9Xok/thumbnail.jpg" group-title="Sa Re Ga Ma Pa   Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (11 Dec 2018) Episode 43
 https://stream.mux.com/G00kfgZr02u6JgaL2rEf02siEN01DzOf1PocVkzU02zK9Xok.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/02wruEDf5MfGKLPw4zO5d3yMVXD7TduaMTABfHJx5mgY/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (10 Dec 2018) Episode 42
+#EXTINF:-1 tvg-logo="https://image.mux.com/02wruEDf5MfGKLPw4zO5d3yMVXD7TduaMTABfHJx5mgY/thumbnail.jpg" group-title="Sa Re Ga Ma Pa   Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (10 Dec 2018) Episode 42
 https://stream.mux.com/02wruEDf5MfGKLPw4zO5d3yMVXD7TduaMTABfHJx5mgY.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/y34EPjGiRz021DZFjjBZzQlM9T5Ywu7Z8Yfp6smL75rs/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (9 Dec 2018) Episode 41
+#EXTINF:-1 tvg-logo="https://image.mux.com/y34EPjGiRz021DZFjjBZzQlM9T5Ywu7Z8Yfp6smL75rs/thumbnail.jpg" group-title="Sa Re Ga Ma Pa   Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (9 Dec 2018) Episode 41
 https://stream.mux.com/y34EPjGiRz021DZFjjBZzQlM9T5Ywu7Z8Yfp6smL75rs.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/zWIcMxlXHHWWtx235PxvlvHwsKiltSignVxAQuJr8kw/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (8 Dec 2018) Episode 40
+#EXTINF:-1 tvg-logo="https://image.mux.com/zWIcMxlXHHWWtx235PxvlvHwsKiltSignVxAQuJr8kw/thumbnail.jpg" group-title="Sa Re Ga Ma Pa   Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (8 Dec 2018) Episode 40
 https://stream.mux.com/zWIcMxlXHHWWtx235PxvlvHwsKiltSignVxAQuJr8kw.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/zokDFvLvCqT2eUq11g2DpGhvm93h1102wXsWn00bBLEy8/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (7 Dec 2018) Episode 39
+#EXTINF:-1 tvg-logo="https://image.mux.com/zokDFvLvCqT2eUq11g2DpGhvm93h1102wXsWn00bBLEy8/thumbnail.jpg" group-title="Sa Re Ga Ma Pa   Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (7 Dec 2018) Episode 39
 https://stream.mux.com/zokDFvLvCqT2eUq11g2DpGhvm93h1102wXsWn00bBLEy8.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/PqCvU7XNWQ02X71RPXojkLaHIy5vEudqkjIk02dR2oUUw/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (6 Dec 2018) Episode 38
+#EXTINF:-1 tvg-logo="https://image.mux.com/PqCvU7XNWQ02X71RPXojkLaHIy5vEudqkjIk02dR2oUUw/thumbnail.jpg" group-title="Sa Re Ga Ma Pa   Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (6 Dec 2018) Episode 38
 https://stream.mux.com/PqCvU7XNWQ02X71RPXojkLaHIy5vEudqkjIk02dR2oUUw.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/hnz9TY021YXVWz84ITXgF02FVp02PO01VmfQryHUBEsj3cE/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (5 Dec 2018) Episode 37
+#EXTINF:-1 tvg-logo="https://image.mux.com/hnz9TY021YXVWz84ITXgF02FVp02PO01VmfQryHUBEsj3cE/thumbnail.jpg" group-title="Sa Re Ga Ma Pa   Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (5 Dec 2018) Episode 37
 https://stream.mux.com/hnz9TY021YXVWz84ITXgF02FVp02PO01VmfQryHUBEsj3cE.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/r8g4phezo02W00BHQ7anS4fKsjxfKhIyxeA4mYgEzGpe8/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (4 Dec 2018) Episode 36
+#EXTINF:-1 tvg-logo="https://image.mux.com/r8g4phezo02W00BHQ7anS4fKsjxfKhIyxeA4mYgEzGpe8/thumbnail.jpg" group-title="Sa Re Ga Ma Pa   Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (4 Dec 2018) Episode 36
 https://stream.mux.com/r8g4phezo02W00BHQ7anS4fKsjxfKhIyxeA4mYgEzGpe8.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/ypvUEUkCyOCqpwDajstSL99Rvc5eWrRIANlIvlCqNzU/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (3 Dec 2018) Episode 35
+#EXTINF:-1 tvg-logo="https://image.mux.com/ypvUEUkCyOCqpwDajstSL99Rvc5eWrRIANlIvlCqNzU/thumbnail.jpg" group-title="Sa Re Ga Ma Pa   Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (3 Dec 2018) Episode 35
 https://stream.mux.com/ypvUEUkCyOCqpwDajstSL99Rvc5eWrRIANlIvlCqNzU.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/lmED6HOfIN2kjj8w79wiFRq02MYPoSSFEbaZ13QgRV3I/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (2 Dec 2018) Episode 34
+#EXTINF:-1 tvg-logo="https://image.mux.com/lmED6HOfIN2kjj8w79wiFRq02MYPoSSFEbaZ13QgRV3I/thumbnail.jpg" group-title="Sa Re Ga Ma Pa   Bangla S03",Sa Re Ga Ma Pa   Bangla S03 (2 Dec 2018) Episode 34
 https://stream.mux.com/lmED6HOfIN2kjj8w79wiFRq02MYPoSSFEbaZ13QgRV3I.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/I02MmHyDltGM8Blc5s01eK9OlVjXFLOQBH00AphjBugVYg/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa - Bangla S03 (1 Dec 2018) Episode 33
 https://stream.mux.com/I02MmHyDltGM8Blc5s01eK9OlVjXFLOQBH00AphjBugVYg.m3u8
