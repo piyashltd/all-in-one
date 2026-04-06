@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.mux.com/025FWWmPA8PWGoo4v0202gcFjKwwcEOoQExPW3TK02JeA2A/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (25 Nov 2021) Episode 11
-https://stream.mux.com/025FWWmPA8PWGoo4v0202gcFjKwwcEOoQExPW3TK02JeA2A.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/UM9200W024bAf4Ba3Qdjz008xQe1n02gxC2IhyD46tzYmVc/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (25 Nov 2021) Episode 6
-https://stream.mux.com/UM9200W024bAf4Ba3Qdjz008xQe1n02gxC2IhyD46tzYmVc.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/8rTSYkTrW32cHjN9BuF02Hr01zHTJxGYCvszYqM88Ed8E/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (25 Nov 2021) Episode 6
-https://stream.mux.com/8rTSYkTrW32cHjN9BuF02Hr01zHTJxGYCvszYqM88Ed8E.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/TyPgoklbV02VblTEcHW9QjxocRMv6B9cAnu3sOVGJMew/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (25 Nov 2021) Episode 6
-https://stream.mux.com/TyPgoklbV02VblTEcHW9QjxocRMv6B9cAnu3sOVGJMew.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/9m727nc01D9wDY6Zjs9zjW7zsatfb01US01vld00n8HdAxs/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (25 Nov 2021) Episode 6
-https://stream.mux.com/9m727nc01D9wDY6Zjs9zjW7zsatfb01US01vld00n8HdAxs.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/24V6DdyDMRdGeIJ0000L9C01pqFi01EBUetY02WalxEslqz00/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (25 Nov 2021) Episode 6
-https://stream.mux.com/24V6DdyDMRdGeIJ0000L9C01pqFi01EBUetY02WalxEslqz00.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/I7OikaWQ8McWFbTEsYWGk94Ufg7FpqZzzUX22Vd4u02o/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (4 Apr 2026) Episode 14
 https://stream.mux.com/I7OikaWQ8McWFbTEsYWGk94Ufg7FpqZzzUX22Vd4u02o.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/ztPGkNf9mmSFFMXx1jIZHPlNs2BEEynB00NvIgzOoaLU/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (4 Apr 2026) Episode 15
@@ -819,6 +807,18 @@ https://stream.mux.com/1ZFYH701pN013cI6UmCa01ng1avYM27QOD014xLlZ3zXOXE.m3u8
 https://stream.mux.com/02CII3fDP3S00vsX7mX026xOA00tSVwWJBcJZlGwK8j39SY.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/vti02w9gmZo00021ADRAyILYkO0200mWYIyUcmJMB9jKZmTI/thumbnail.jpg" group-title="Shikari Kuzgun S01",Shikari Kuzgun S01 (16 Sep 2023) Episode 1
 https://stream.mux.com/vti02w9gmZo00021ADRAyILYkO0200mWYIyUcmJMB9jKZmTI.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/025FWWmPA8PWGoo4v0202gcFjKwwcEOoQExPW3TK02JeA2A/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (25 Nov 2021) Episode 11
+https://stream.mux.com/025FWWmPA8PWGoo4v0202gcFjKwwcEOoQExPW3TK02JeA2A.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/UM9200W024bAf4Ba3Qdjz008xQe1n02gxC2IhyD46tzYmVc/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (25 Nov 2021) Episode 6
+https://stream.mux.com/UM9200W024bAf4Ba3Qdjz008xQe1n02gxC2IhyD46tzYmVc.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/8rTSYkTrW32cHjN9BuF02Hr01zHTJxGYCvszYqM88Ed8E/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (25 Nov 2021) Episode 6
+https://stream.mux.com/8rTSYkTrW32cHjN9BuF02Hr01zHTJxGYCvszYqM88Ed8E.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/TyPgoklbV02VblTEcHW9QjxocRMv6B9cAnu3sOVGJMew/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (25 Nov 2021) Episode 6
+https://stream.mux.com/TyPgoklbV02VblTEcHW9QjxocRMv6B9cAnu3sOVGJMew.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/9m727nc01D9wDY6Zjs9zjW7zsatfb01US01vld00n8HdAxs/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (25 Nov 2021) Episode 6
+https://stream.mux.com/9m727nc01D9wDY6Zjs9zjW7zsatfb01US01vld00n8HdAxs.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/24V6DdyDMRdGeIJ0000L9C01pqFi01EBUetY02WalxEslqz00/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (25 Nov 2021) Episode 6
+https://stream.mux.com/24V6DdyDMRdGeIJ0000L9C01pqFi01EBUetY02WalxEslqz00.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/EYFBdDP2IKHOFmbT9bYmYiMseI8D4K3k02wxQBY5mD9s/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (24 Nov 2021) Episode 8
 https://stream.mux.com/EYFBdDP2IKHOFmbT9bYmYiMseI8D4K3k02wxQBY5mD9s.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/Pl4For7dd3601ogOYKY3rVdGJiKSeeOP01vObJwVKq01bo/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (24 Nov 2021) Episode 13
