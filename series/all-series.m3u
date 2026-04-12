@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.mux.com/pQ02XZYFK00oLmYyfPctgvxR4n00Qty53Jncc5BVltegLU/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (16 Apr 2026) Episode 20
+https://stream.mux.com/pQ02XZYFK00oLmYyfPctgvxR4n00Qty53Jncc5BVltegLU.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/TaY8JNTKMteh5ymUKE1vMkCphrH2FKLd02CKMUeXz1Zc/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (17 Apr 2026) Episode 21
+https://stream.mux.com/TaY8JNTKMteh5ymUKE1vMkCphrH2FKLd02CKMUeXz1Zc.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/101xxwB01F6hjQmES3ujJ1hajeQDW6p8BcqbCXW8x1Sbs/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (9 Apr 2026) Episode 30
 https://stream.mux.com/101xxwB01F6hjQmES3ujJ1hajeQDW6p8BcqbCXW8x1Sbs.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/WnlAdRShCPSccusCh2mtjAoGrqzC3xrasWwn01AXACO4/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (14 Apr 2026) Episode 18
