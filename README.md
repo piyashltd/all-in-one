@@ -1,5 +1,7 @@
 # Playlists - IPTV & Movie Player 
 
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
 A modern, fast, and lightweight web player designed for seamless streaming.  
 Watch **Live TV**, **Movies**, and **Web Series** directly from your browser with a premium Netflix-style dark interface.
 
