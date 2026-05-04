@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.mux.com/4r5CTVMhl24ZkKi1fE557v9CD15Od8ba02dh2Xulc6AM/thumbnail.jpg" group-title="Naagin S07",Naagin S07 (13 Apr 2026) Episode 35
-https://stream.mux.com/4r5CTVMhl24ZkKi1fE557v9CD15Od8ba02dh2Xulc6AM.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/3rirVAWb9IwlH2Bc9wnJkulyWlKa43MqFhex02H7EHT8/thumbnail.jpg" group-title="Naagin S07",Naagin S07 (14 Apr 2026) Episode 36
-https://stream.mux.com/3rirVAWb9IwlH2Bc9wnJkulyWlKa43MqFhex02H7EHT8.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/uUAbn02jLKbA02jIMrKM8OjddRdjf001PDslEmNEDzJmzo/thumbnail.jpg" group-title="Naagin S07",Naagin S07 (30 Apr 2026) Episode 52
 https://stream.mux.com/uUAbn02jLKbA02jIMrKM8OjddRdjf001PDslEmNEDzJmzo.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/PXkuWyMWsUcQFO01g0278PSc1vo5HZyFfWG02BWre2UwB4/thumbnail.jpg" group-title="Naagin S07",Naagin S07 (29 Apr 2026) Episode 51
@@ -43,8 +39,12 @@ https://stream.mux.com/TaY8JNTKMteh5ymUKE1vMkCphrH2FKLd02CKMUeXz1Zc.m3u8
 https://stream.mux.com/pQ02XZYFK00oLmYyfPctgvxR4n00Qty53Jncc5BVltegLU.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/c02cvaPSavzcVDIyaswAanlDcnlZ6m3XRlaKXMroumxQ/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (15 Apr 2026) Episode 19
 https://stream.mux.com/c02cvaPSavzcVDIyaswAanlDcnlZ6m3XRlaKXMroumxQ.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/3rirVAWb9IwlH2Bc9wnJkulyWlKa43MqFhex02H7EHT8/thumbnail.jpg" group-title="Naagin S07",Naagin S07 (14 Apr 2026) Episode 36
+https://stream.mux.com/3rirVAWb9IwlH2Bc9wnJkulyWlKa43MqFhex02H7EHT8.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/WnlAdRShCPSccusCh2mtjAoGrqzC3xrasWwn01AXACO4/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (14 Apr 2026) Episode 18
 https://stream.mux.com/WnlAdRShCPSccusCh2mtjAoGrqzC3xrasWwn01AXACO4.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/4r5CTVMhl24ZkKi1fE557v9CD15Od8ba02dh2Xulc6AM/thumbnail.jpg" group-title="Naagin S07",Naagin S07 (13 Apr 2026) Episode 35
+https://stream.mux.com/4r5CTVMhl24ZkKi1fE557v9CD15Od8ba02dh2Xulc6AM.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/KmdMpm1dy3Y02wt1BMJgm5ThRtY9z6aTEe00AJ8DMIkdQ/thumbnail.jpg" group-title="Aladdin S01",Aladdin S01 (13 Apr 2026) Episode 17
 https://stream.mux.com/KmdMpm1dy3Y02wt1BMJgm5ThRtY9z6aTEe00AJ8DMIkdQ.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/ncuMv01MfeDZiz6HHqNs21tyepA00xUzm3Yotf01bXmxV4/thumbnail.jpg" group-title="Naagin S07",Naagin S07 (12 Apr 2026) Episode 34
