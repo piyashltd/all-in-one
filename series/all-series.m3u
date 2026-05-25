@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ppMI1flBoXTxuRn8gFBNWvTO6Of5YXmU&sz=w1200" group-title="Ishqiya S01",Ishqiya S01 (10 Feb 2020) Episode 2
-https://drive-proxy.piyashmia42.workers.dev?id=1ppMI1flBoXTxuRn8gFBNWvTO6Of5YXmU
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/drive-storage/AJQWtBOoI2Bzlf9n_fAngafa0Cu1uI0fZQ6Nsb2XhUjvt5y33An9q3AgTYamTIicfwVcO7tpZM-CJn1B9zIvnFFAQ7pQ8Sw0AZP-I1jUlOf2R6vzRIu7dOo=s1200" group-title="Ishqiya S01",Ishqiya S01 (3 Feb 2020) Episode 1
-https://drive-proxy.piyashmia42.workers.dev?id=1IyxKhELiS5yVXD0EMBvje-eRrNdkYm6n
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/drive-storage/AJQWtBPN5LF3dFU4GyJcSzs-sSU2fPYW7DGBoQqFlc8erA5hQiX8UZrbvXqMijFvBKLLGgdktawMFl3V9_qYNgjDxlI69XhYIBAujBU158xm7qVZ39e3_k4=s1200" group-title="Aladdin S01",Aladdin S01 (23 May 2026) Episode 55
 https://drive-proxy.piyashmia42.workers.dev?id=19ZEnPGiD4L40wMLTUO0_TJ-ZRRkfV_kd
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/drive-storage/AJQWtBPBIiMTY9bbmyXdK8IUdhvil08PnvPfIYf9o6-3ysmoULxyd2y2APxTMPUzJEHapKxKRB_gCCzXvuMPFRYQd4g3_7gowuZby9nArAmfzfiN0TktD3Q=s1200" group-title="Aladdin S01",Aladdin S01 (23 May 2026) Episode 53
@@ -535,6 +531,10 @@ https://stream.mux.com/PzertQau7QvY1hbCbU9XMK4ZZPjJAL7iHGmzF024ozEU.m3u8
 https://stream.mux.com/Kv02SRxY464dhFYN200qOfHwrrh9zwfTEDXpVnfhMjYUI.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ottstream/tr:f-webp/KS%20S01E01.jpg" group-title="Kurulus Osman S01",Kurulus Osman S01 (01 Dec 2020) Episode 1
 https://stream.mux.com/ps02zMrbyQ702j4wM3DwvkJKkIb5F7w02dCC7zBjdjEUCs.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ppMI1flBoXTxuRn8gFBNWvTO6Of5YXmU&sz=w1200" group-title="Ishqiya S01",Ishqiya S01 (10 Feb 2020) Episode 2
+https://drive-proxy.piyashmia42.workers.dev?id=1ppMI1flBoXTxuRn8gFBNWvTO6Of5YXmU
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/drive-storage/AJQWtBOoI2Bzlf9n_fAngafa0Cu1uI0fZQ6Nsb2XhUjvt5y33An9q3AgTYamTIicfwVcO7tpZM-CJn1B9zIvnFFAQ7pQ8Sw0AZP-I1jUlOf2R6vzRIu7dOo=s1200" group-title="Ishqiya S01",Ishqiya S01 (3 Feb 2020) Episode 1
+https://drive-proxy.piyashmia42.workers.dev?id=1IyxKhELiS5yVXD0EMBvje-eRrNdkYm6n
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7xtmHRkc/saregamapa975138773.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa - Bangla S03 (28 Jul 2019) Episode 91
 https://stream.mux.com/k4eaQ55VsXPCryqVhG009z8gunc372zovYZPH8JpqNho.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/s1nwmnYfiHwvsYx801dXsf4GzQwEIsrAImSjBigp01LUc/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa - Bangla S03 (27 Jul 2019) Episode 90
