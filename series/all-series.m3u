@@ -1,9 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.mux.com/Vara9UMgzO5g00y7E01z6KbJW3BgkP6OFnOp9kJbCQUZw/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (7 May 2026) Episode 6
+https://stream.mux.com/Vara9UMgzO5g00y7E01z6KbJW3BgkP6OFnOp9kJbCQUZw.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/TEELxJlTfPCnP00nXKN39tpJnKYGxh7zSZIcnPiB3Cak/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (24 May 2026) Episode 7
 https://stream.mux.com/TEELxJlTfPCnP00nXKN39tpJnKYGxh7zSZIcnPiB3Cak.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/TZzmsUfsQfLnR17zlO7FXjqxpRdShVTFxlFfsCbJdRw/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (20 May 2026) Episode 9
+https://stream.mux.com/TZzmsUfsQfLnR17zlO7FXjqxpRdShVTFxlFfsCbJdRw.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/201NwZVSIN02XSiXoWV44coBbuH02eRNqmFGcR9RymLJbo/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (14 May 2026) Episode 8
+https://stream.mux.com/201NwZVSIN02XSiXoWV44coBbuH02eRNqmFGcR9RymLJbo.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/00D7rZRzCXYogLNnWsYftwgebMFZvntwHhTEICUlO3H00/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (29 Apr 2026) Episode 3
+https://stream.mux.com/00D7rZRzCXYogLNnWsYftwgebMFZvntwHhTEICUlO3H00.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/qGsj02QB802baa5O9WYYWkDvPUy01hwwrQutYKDP02evOH8/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (30 Apr 2026) Episode 4
+https://stream.mux.com/qGsj02QB802baa5O9WYYWkDvPUy01hwwrQutYKDP02evOH8.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/cAyMksjPJPn02k02ivT2V0100KmXx46MZjCLFgd74udPcWY/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (6 May 2026) Episode 5
+https://stream.mux.com/cAyMksjPJPn02k02ivT2V0100KmXx46MZjCLFgd74udPcWY.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/BPklT001pk4E0002T7qwD02HmtLiaHyUKRY4xF8hGN003G9Q/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (21 May 2026) Episode 10
+https://stream.mux.com/BPklT001pk4E0002T7qwD02HmtLiaHyUKRY4xF8hGN003G9Q.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/jaLKPm02SKEtg3G9KbpwWfSwlyVBhxD7MFZjSp1J7gOk/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (23 Apr 2026) Episode 2
+https://stream.mux.com/jaLKPm02SKEtg3G9KbpwWfSwlyVBhxD7MFZjSp1J7gOk.m3u8
+#EXTINF:-1 tvg-logo="https://image.mux.com/gXRb8N1r01jS2OHSTJJ4dFADThb4GI7f02Q7nG3fDY8EA/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (22 Apr 2026) Episode 1
+https://stream.mux.com/gXRb8N1r01jS2OHSTJJ4dFADThb4GI7f02Q7nG3fDY8EA.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1ppMI1flBoXTxuRn8gFBNWvTO6Of5YXmU&sz=w1200" group-title="Ishqiya S01",Ishqiya S01 (24 May 2026) Episode 2
 https://drive-proxy.piyashmia42.workers.dev?id=1ppMI1flBoXTxuRn8gFBNWvTO6Of5YXmU
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/drive-storage/AJQWtBOoI2Bzlf9n_fAngafa0Cu1uI0fZQ6Nsb2XhUjvt5y33An9q3AgTYamTIicfwVcO7tpZM-CJn1B9zIvnFFAQ7pQ8Sw0AZP-I1jUlOf2R6vzRIu7dOo=s1200" group-title="Ishqiya S01",Ishqiya S01 (24 May 2026) Episode 1
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/drive-storage/AJQWtBOoI2Bzlf9n_fAngafa0Cu1uI0fZQ6Nsb2XhUjvt5y33An9q3AgTYamTIicfwVcO7tpZM-CJn1B9zIvnFFAQ7pQ8Sw0AZP-I1jUlOf2R6vzRIu7dOo=s1200" group-title="Ishqiya S01",Ishqiya S01 (3 Feb 2020) Episode 1
 https://drive-proxy.piyashmia42.workers.dev?id=1IyxKhELiS5yVXD0EMBvje-eRrNdkYm6n
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/drive-storage/AJQWtBPN5LF3dFU4GyJcSzs-sSU2fPYW7DGBoQqFlc8erA5hQiX8UZrbvXqMijFvBKLLGgdktawMFl3V9_qYNgjDxlI69XhYIBAujBU158xm7qVZ39e3_k4=s1200" group-title="Aladdin S01",Aladdin S01 (23 May 2026) Episode 55
 https://drive-proxy.piyashmia42.workers.dev?id=19ZEnPGiD4L40wMLTUO0_TJ-ZRRkfV_kd
@@ -21,10 +39,6 @@ https://drive-proxy.piyashmia42.workers.dev?id=1S_BLDESJ9BF7JVMjsqgrlL66phoi9rWV
 https://drive-proxy.piyashmia42.workers.dev?id=1oVMY9OOxf1-mfpj_od6OMl6z4A8l84JZ
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/drive-storage/AJQWtBMcG7u6nkFhw71dq9IrQwgT2HBxvbZm8sseUJZ9dqlo6thU0QANmMdp4aaxlOEL_mPGttciImJt0FMoyodu8qMYzhmxsZvicGhkiOqU3U_hG8gv1X0=s1200" group-title="Aladdin S01",Aladdin S01 (23 May 2026) Episode 52
 https://drive-proxy.piyashmia42.workers.dev?id=1SaRNVRkIbKhSwWQs_tNTGa4hPsSATImK
-#EXTINF:-1 tvg-logo="https://image.mux.com/BPklT001pk4E0002T7qwD02HmtLiaHyUKRY4xF8hGN003G9Q/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (21 May 2026) Episode 10
-https://stream.mux.com/BPklT001pk4E0002T7qwD02HmtLiaHyUKRY4xF8hGN003G9Q.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/TZzmsUfsQfLnR17zlO7FXjqxpRdShVTFxlFfsCbJdRw/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (20 May 2026) Episode 9
-https://stream.mux.com/TZzmsUfsQfLnR17zlO7FXjqxpRdShVTFxlFfsCbJdRw.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/drive-storage/AJQWtBP9u9zrlULDfXkZk-7Mv9gwjOLky3uvm4Z1G1p7jg6D37kVci65iNKII-tilmRTfR6Vk5zdnQoD09oKqkS8UVLL4avpFZPfcNVEbPy52-AtvwCJ0FM=s1200" group-title="S01",S01 (20 May 2026) Episode 1
 https://drive-proxy.piyashmia42.workers.dev?id=1dG7WINM3VcMndXcwnrvAJoFN6UfOWPgD
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/drive-storage/AJQWtBMH7nfAzaugJezC8ST4pREkNib8ApdVZ29ZLx5fLVk4doNkTTKo2mhCtGiJelrjA3j6ScOz8of31_N5hozR9p1UFyO0R40GiwSSpIgtK-KAw_NRdjg=s1200" group-title="Aladdin S01",Aladdin S01 (20 May 2026) Episode 50
@@ -125,20 +139,6 @@ https://drive-proxy.piyashmia42.workers.dev?id=1sLpgAZS7dPI2WoGnXhq-xG8kX2XkTVVW
 https://drive-proxy.piyashmia42.workers.dev?id=18oW1DF441q3Isnbw1Nl6fJjNW_UrCT67
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/drive-storage/AJQWtBMOmBOb_DbS3UTNz5RjCol5uQAYsVfyBQuOLG2d4ECal9j3eJHHbfVUc4_Iyr2GtMQmDamcSeMfwInl3dQNNIZmkFMK4a6FCGL5kezfhHYmx1ZPz4E=s1200" group-title="Aladdin S01",Aladdin S01 (18 May 2026) Episode 1
 https://drive-proxy.piyashmia42.workers.dev?id=1k5tE8O2xOhm6FJCl0PhGnalZBs5oLAsn
-#EXTINF:-1 tvg-logo="https://image.mux.com/201NwZVSIN02XSiXoWV44coBbuH02eRNqmFGcR9RymLJbo/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (14 May 2026) Episode 8
-https://stream.mux.com/201NwZVSIN02XSiXoWV44coBbuH02eRNqmFGcR9RymLJbo.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/Vara9UMgzO5g00y7E01z6KbJW3BgkP6OFnOp9kJbCQUZw/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (7 May 2026) Episode 6
-https://stream.mux.com/Vara9UMgzO5g00y7E01z6KbJW3BgkP6OFnOp9kJbCQUZw.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/cAyMksjPJPn02k02ivT2V0100KmXx46MZjCLFgd74udPcWY/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (6 May 2026) Episode 5
-https://stream.mux.com/cAyMksjPJPn02k02ivT2V0100KmXx46MZjCLFgd74udPcWY.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/qGsj02QB802baa5O9WYYWkDvPUy01hwwrQutYKDP02evOH8/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (30 Apr 2026) Episode 4
-https://stream.mux.com/qGsj02QB802baa5O9WYYWkDvPUy01hwwrQutYKDP02evOH8.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/00D7rZRzCXYogLNnWsYftwgebMFZvntwHhTEICUlO3H00/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (29 Apr 2026) Episode 3
-https://stream.mux.com/00D7rZRzCXYogLNnWsYftwgebMFZvntwHhTEICUlO3H00.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/jaLKPm02SKEtg3G9KbpwWfSwlyVBhxD7MFZjSp1J7gOk/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (23 Apr 2026) Episode 2
-https://stream.mux.com/jaLKPm02SKEtg3G9KbpwWfSwlyVBhxD7MFZjSp1J7gOk.m3u8
-#EXTINF:-1 tvg-logo="https://image.mux.com/gXRb8N1r01jS2OHSTJJ4dFADThb4GI7f02Q7nG3fDY8EA/thumbnail.jpg" group-title="Shaidai S01",Shaidai S01 (22 Apr 2026) Episode 1
-https://stream.mux.com/gXRb8N1r01jS2OHSTJJ4dFADThb4GI7f02Q7nG3fDY8EA.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/3rirVAWb9IwlH2Bc9wnJkulyWlKa43MqFhex02H7EHT8/thumbnail.jpg" group-title="Naagin S07",Naagin S07 (14 Apr 2026) Episode 36
 https://stream.mux.com/3rirVAWb9IwlH2Bc9wnJkulyWlKa43MqFhex02H7EHT8.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/4r5CTVMhl24ZkKi1fE557v9CD15Od8ba02dh2Xulc6AM/thumbnail.jpg" group-title="Naagin S07",Naagin S07 (13 Apr 2026) Episode 35
