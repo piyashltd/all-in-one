@@ -1,0 +1,71 @@
+{
+  "movies": [
+    {
+      "id": "movie_01",
+      "title": "Inception",
+      "posterUrl": "https://example.com/posters/inception.jpg",
+      "videoUrl": "https://example.com/streams/inception/master.m3u8",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology.",
+      "releaseYear": 2010
+    },
+    {
+      "id": "movie_02",
+      "title": "Interstellar",
+      "posterUrl": "https://example.com/posters/interstellar.jpg",
+      "videoUrl": "https://example.com/movies/interstellar.mp4",
+      "description": "A team of explorers travel through a wormhole in space.",
+      "releaseYear": 2014
+    }
+  ],
+  "series": [
+    {
+      "id": "series_01",
+      "title": "Breaking Bad",
+      "posterUrl": "https://example.com/posters/breakingbad.jpg",
+      "episodes": [
+        {
+          "id": "bb_s01e01",
+          "title": "Pilot",
+          "season": 1,
+          "episode": 1,
+          "videoUrl": "https://example.com/streams/bb_s01e01/master.m3u8"
+        },
+        {
+          "id": "bb_s01e02",
+          "title": "Cat's in the Bag...",
+          "season": 1,
+          "episode": 2,
+          "videoUrl": "https://example.com/streams/bb_s01e02/master.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "series_02",
+      "title": "Stranger Things",
+      "posterUrl": "https://example.com/posters/strangerthings.jpg",
+      "episodes": [
+        {
+          "id": "st_s01e01",
+          "title": "The Vanishing of Will Byers",
+          "season": 1,
+          "episode": 1,
+          "videoUrl": "https://example.com/streams/st_s01e01.mpd"
+        }
+      ]
+    }
+  ],
+  "channels": [
+    {
+      "id": "ch_01",
+      "title": "T Sports Live",
+      "logoUrl": "https://example.com/logos/tsports.png",
+      "videoUrl": "https://live-stream-url.com/tsports.m3u8"
+    },
+    {
+      "id": "ch_02",
+      "title": "Sony Ten 1 HD",
+      "logoUrl": "https://example.com/logos/sonyten1.png",
+      "videoUrl": "https://live-stream-url.com/sonyten1/master.m3u8"
+    }
+  ]
+    }
