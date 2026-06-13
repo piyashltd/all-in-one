@@ -141,11 +141,20 @@ jobs:
               echo "Processing directory: $folder..."
               echo '#EXTM3U' > "$folder/index.m3u"
               
+              # ১. ফোল্ডারের ইনডেক্সে সবার আগে Priority ফাইলগুলো যুক্ত করা
+              for p_file in "${PRIORITY_FILES[@]}"; do
+                if [[ "$p_file" == "$folder/"* ]] && [ -f "$p_file" ]; then
+                  echo "Adding priority file to folder index: $p_file"
+                  get_m3u "$p_file" >> "$folder/index.m3u"
+                fi
+              done
+              
+              # ২. এরপর বাকি সাধারণ ফাইলগুলো প্রসেস করা
               for file in "$folder"/*.m3u; do
                 [ -e "$file" ] || continue
                 [ "$file" == "$folder/index.m3u" ] && continue
                 
-                # Check if the current file is a priority file to prevent double addition
+                # ফাইলটি priority ফাইলের লিস্টে আছে কি না চেক করা
                 is_priority=0
                 for p in "${PRIORITY_FILES[@]}"; do
                   if [[ "$p" == "$file" ]]; then
@@ -153,6 +162,44 @@ jobs:
                     break
                   fi
                 done
+                
+                # --- Special File Handling: series/all-series.m3u ---
+                if [[ "$file" == "series/all-series.m3u" ]]; then
+                  echo "Processing customized internal sort for: $file"
+                  grep -v "^#EXTM3U" "$file" | sed '/^$/d' | awk '/^#EXTINF/ {printf "%s|", $0; next} {print $0}' > temp_all.txt
+                  
+                  grep -E -i -v "$CUSTOM_SERIES_KEYWORD" temp_all.txt > top_unsorted.txt
+                  grep -E -i "$CUSTOM_SERIES_KEYWORD" temp_all.txt | \
+                  awk -F',' '{ name=$NF; gsub(/\([^)]*\)/, "", name); print name "^^^" $0 }' | \
+                  sort -t'^' -k1,1fV | \
+                  sed 's/^.*^^^//' > custom_sorted.txt
+                  
+                  cat top_unsorted.txt custom_sorted.txt | tr '|' '\n' >> "$folder/index.m3u"
+                  
+                  if [[ $is_priority -eq 0 ]]; then
+                    cat top_unsorted.txt | tr '|' '\n' >> index.m3u
+                  fi
+                  
+                  rm -f temp_all.txt top_unsorted.txt custom_sorted.txt
+                  continue
+                fi
+                # --- End Special File Handling ---
+                
+                # --- General File Logic ---
+                # Priority ফাইলগুলো আমরা আগেই ফোল্ডার ইনডেক্সে যুক্ত করেছি, তাই এখানে Skip করবো
+                if [[ $is_priority -eq 0 ]]; then
+                  echo "Sorting $file A-Z..."
+                  sort_m3u "$file" > temp_sorted.m3u
+                  cat temp_sorted.m3u >> "$folder/index.m3u"
+                  cat temp_sorted.m3u >> index.m3u
+                  rm -f temp_sorted.m3u
+                fi
+              done
+            else
+              echo "Directory $folder not found. Skipping..."
+            fi
+          done
+
                 
                 # --- Special File Handling: series/all-series.m3u ---
                 if [[ "$file" == "series/all-series.m3u" ]]; then
