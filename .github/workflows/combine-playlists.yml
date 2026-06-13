@@ -42,13 +42,12 @@ jobs:
           # ==========================================
           
           echo "✅ Normalizing group-titles to unify variations (e.g. 'Shiva - S01' and 'Shiva S01')..."
-          # Pass 1: Collect counts and determine the majority title for each normalized string
           find . -type f -name "*.m3u" ! -name "index.m3u" -print0 | xargs -0 cat | gawk '
           /^#EXTINF/ {
               if (match($0, /group-title="([^"]+)"/, arr)) {
                   title = arr[1]
                   norm = tolower(title)
-                  gsub(/[^a-z0-9]/, "", norm) # Strip spaces and symbols for comparison
+                  gsub(/[^a-z0-9]/, "", norm) 
                   count[title]++
                   if (count[title] > max[norm]) {
                       max[norm] = count[title]
@@ -60,7 +59,6 @@ jobs:
               for (n in best) print n "___" best[n]
           }' > title_map.txt
 
-          # Pass 2: Rewrite files to apply the unified group-title
           find . -type f -name "*.m3u" ! -name "index.m3u" | while read -r file; do
               gawk '
               BEGIN {
@@ -90,14 +88,12 @@ jobs:
               ' "$file" > "${file}.tmp" && mv "${file}.tmp" "$file"
           done
           
-          # 🧹 Clean up temporary backup files generated during the rewriting process
           rm -f title_map.txt
           find . -type f -name "*.tmp" -delete
           echo "✅ Cleaned up temporary backup files."
 
           echo '#EXTM3U x-tvg-url="YOUR_EPG_URL_HERE.xml"' > index.m3u
 
-          # Smart sorting function: Ignores links and dates, sorts only by episode name/number
           sort_m3u() {
             local file=$1
             grep -v "^#EXTM3U" "$file" | sed '/^$/d' | awk '/^#EXTINF/ {printf "%s|", $0; next} {print $0}' | \
@@ -122,7 +118,6 @@ jobs:
             fi
           done
 
-          # Add Custom Series to the TOP of the global index.m3u
           CUSTOM_SERIES_FILE="series/all-series.m3u"
           if [ -f "$CUSTOM_SERIES_FILE" ]; then
             echo "✅ Extracting Custom Series to place at the Top of global index..."
@@ -166,9 +161,11 @@ jobs:
                 # --- Special File Handling: series/all-series.m3u ---
                 if [[ "$file" == "series/all-series.m3u" ]]; then
                   echo "Processing customized internal sort for: $file"
+                  
                   grep -v "^#EXTM3U" "$file" | sed '/^$/d' | awk '/^#EXTINF/ {printf "%s|", $0; next} {print $0}' > temp_all.txt
                   
                   grep -E -i -v "$CUSTOM_SERIES_KEYWORD" temp_all.txt > top_unsorted.txt
+                  
                   grep -E -i "$CUSTOM_SERIES_KEYWORD" temp_all.txt | \
                   awk -F',' '{ name=$NF; gsub(/\([^)]*\)/, "", name); print name "^^^" $0 }' | \
                   sort -t'^' -k1,1fV | \
@@ -186,58 +183,7 @@ jobs:
                 # --- End Special File Handling ---
                 
                 # --- General File Logic ---
-                # Priority ফাইলগুলো আমরা আগেই ফোল্ডার ইনডেক্সে যুক্ত করেছি, তাই এখানে Skip করবো
                 if [[ $is_priority -eq 0 ]]; then
-                  echo "Sorting $file A-Z..."
-                  sort_m3u "$file" > temp_sorted.m3u
-                  cat temp_sorted.m3u >> "$folder/index.m3u"
-                  cat temp_sorted.m3u >> index.m3u
-                  rm -f temp_sorted.m3u
-                fi
-              done
-            else
-              echo "Directory $folder not found. Skipping..."
-            fi
-          done
-
-                
-                # --- Special File Handling: series/all-series.m3u ---
-                if [[ "$file" == "series/all-series.m3u" ]]; then
-                  echo "Processing customized internal sort for: $file"
-                  
-                  # Bring all items to a single line
-                  grep -v "^#EXTM3U" "$file" | sed '/^$/d' | awk '/^#EXTINF/ {printf "%s|", $0; next} {print $0}' > temp_all.txt
-                  
-                  # Regular series (without keyword) - Unsorted
-                  grep -E -i -v "$CUSTOM_SERIES_KEYWORD" temp_all.txt > top_unsorted.txt
-                  
-                  # Custom series (with keyword) - Smart Sorted A-Z
-                  grep -E -i "$CUSTOM_SERIES_KEYWORD" temp_all.txt | \
-                  awk -F',' '{ name=$NF; gsub(/\([^)]*\)/, "", name); print name "^^^" $0 }' | \
-                  sort -t'^' -k1,1fV | \
-                  sed 's/^.*^^^//' > custom_sorted.txt
-                  
-                  # Append both to the folder-specific index.m3u
-                  cat top_unsorted.txt custom_sorted.txt | tr '|' '\n' >> "$folder/index.m3u"
-                  
-                  # Append ONLY the regular (non-keyword) series to the global index.m3u 
-                  if [[ $is_priority -eq 0 ]]; then
-                    cat top_unsorted.txt | tr '|' '\n' >> index.m3u
-                  fi
-                  
-                  # Cleanup these sorting temp files as well
-                  rm -f temp_all.txt top_unsorted.txt custom_sorted.txt
-                  continue
-                fi
-                # --- End Special File Handling ---
-                
-                # --- General File Logic ---
-                if [[ $is_priority -eq 1 ]]; then
-                  # Priority file logic for folder index (Unsorted)
-                  # It is NOT added to root index.m3u here because it was already added at the top!
-                  get_m3u "$file" >> "$folder/index.m3u"
-                else
-                  # Standard files get sorted A-Z for both indexes
                   echo "Sorting $file A-Z..."
                   sort_m3u "$file" > temp_sorted.m3u
                   cat temp_sorted.m3u >> "$folder/index.m3u"
@@ -255,6 +201,6 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update: Group-Title unified, Double insertion fixed & Workspace cleaned"
+          commit_message: "Auto-update: Group-Title unified, Priority logic applied & Workspace cleaned"
           file_pattern: 'index.m3u */index.m3u */*.m3u'
           commit_options: '--no-verify'
