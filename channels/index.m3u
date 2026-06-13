@@ -1,4 +1,7 @@
 #EXTM3U
+EXTM3U 
+#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="FIFA World Cup 2026",Backup Live 1
+https://stream.mux.com/UNdmiZSLpx2Dy3Aj6KFUs00O25TtPArJxwdIPgxnerp4.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangla",Somoy TV
@@ -338,6 +341,3 @@ https://bongoflixbd.top/stream.php?id=a108c4e9-ccfa-42f2-8f8f-169ded28cca2
 http://103.229.254.25:7001/play/a06i/index.m3u8
 #EXTINF:-1 tvg-logo="https://rawgithubusercontentt.com/piyashltd/all-in-one/main/image/hum-tv_1.jpg" group-title="International Channels",Hum TV
 https://bongoflixbd.top/test/live.php?id=hum_tv&e=.m3u8
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="FIFA World Cup 2026",Backup Live 1
-https://stream.mux.com/UNdmiZSLpx2Dy3Aj6KFUs00O25TtPArJxwdIPgxnerp4.m3u8
-EXTM3U
