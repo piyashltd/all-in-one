@@ -4,6 +4,8 @@ EXTM3U
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_1.m3u8
 #EXTINF:-1 tvg-id="muxstream" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" tvg-name="Mux Stream" group-title="🔥 FIFA World Cup 2026",Backup Live 2
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",Backup Live 3
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangla",Somoy TV
