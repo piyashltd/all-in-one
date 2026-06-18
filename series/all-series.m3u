@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ottstream/thumb_drama_lds_Shaidai_Ep_14_-_Geo_HD_oqhDra4rV.jpg" group-title="Shaidai S01",Shaidai S01 (04 Jun 2026) Episode 14
 https://archive.org/download/drama_lds/Shaidai%20Ep%2014%20-%20Geo%20HD.mp4
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ottstream/thumb_drama_lds_Ishqiya_Ep_7_-_ARY_Digital_nxGQcJazn.jpg" group-title="Ishqiya S01",Ishqiya S01 (03 Jun 2026) Episode 7
-https://archive.org/download/drama_lds/Ishqiya%20Ep%207%20-%20ARY%20Digital.mp4
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ottstream/thumb_drama_lds_Ishqiya_Ep_6_-_ARY_Digital_HNt7VQNVB.jpg" group-title="Ishqiya S01",Ishqiya S01 (03 Jun 2026) Episode 6
-https://archive.org/download/drama_lds/Ishqiya%20Ep%206%20-%20ARY%20Digital.mp4
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ottstream/thumb_drama_lds_Ishqiya_Ep_5_-_ARY_Digital_c-9-czcH0Z.jpg" group-title="Ishqiya S01",Ishqiya S01 (03 Jun 2026) Episode 5
-https://archive.org/download/drama_lds/Ishqiya%20Ep%205%20-%20ARY%20Digital.mp4
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ottstream/thumb_drama_lds_Aladdin_Ep_65_-_SonyLIV_PD3isvqPs.jpg" group-title="Aladdin S01",Aladdin S01 (02 Jun 2026) Episode 65
 https://archive.org/download/drama_lds/Aladdin%20Ep%2065%20-%20SonyLIV.mp4
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ottstream/thumb_drama_lds_Aladdin_Ep_64_-_SonyLIV_6L1uQYo5l.jpg" group-title="Aladdin S01",Aladdin S01 (02 Jun 2026) Episode 64
@@ -591,14 +585,6 @@ https://stream.mux.com/PzertQau7QvY1hbCbU9XMK4ZZPjJAL7iHGmzF024ozEU.m3u8
 https://stream.mux.com/Kv02SRxY464dhFYN200qOfHwrrh9zwfTEDXpVnfhMjYUI.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ottstream/tr:f-webp/KS%20S01E01.jpg" group-title="Kurulus Osman S01",Kurulus Osman S01 (01 Dec 2020) Episode 1
 https://stream.mux.com/ps02zMrbyQ702j4wM3DwvkJKkIb5F7w02dCC7zBjdjEUCs.m3u8
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ottstream/Archive_Thumbnails/thumb_drama_lds_Ishqiya_Ep_4_-_ARY_Digital_JZJffAvgJ.jpg" group-title="Ishqiya S01",Ishqiya S01 (24 Feb 2020) Episode 4
-https://archive.org/download/drama_lds/Ishqiya%20Ep%204%20-%20ARY%20Digital.mp4
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ottstream/Archive_Thumbnails/thumb_drama_lds_Ishqiya_Ep_3_-_ARY_Digital_rtbGHp9W8.jpg" group-title="Ishqiya S01",Ishqiya S01 (17 Feb 2020) Episode 3
-https://archive.org/download/drama_lds/Ishqiya%20Ep%203%20-%20ARY%20Digital.mp4
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ottstream/Archive_Thumbnails/thumb_drama_lds_Ishqiya_Ep_2_-_ARY_Digital_ap4Vl-Med.jpg" group-title="Ishqiya S01",Ishqiya S01 (10 Feb 2020) Episode 2
-https://archive.org/download/drama_lds/Ishqiya%20Ep%202%20-%20ARY%20Digital.mp4
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/ottstream/Archive_Thumbnails/thumb_drama_lds_Ishqiya_Ep_1_-_ARY_Digital_0vthstRuM.jpg" group-title="Ishqiya S01",Ishqiya S01 (3 Feb 2020) Episode 1
-https://archive.org/download/drama_lds/Ishqiya%20Ep%201%20-%20ARY%20Digital.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7xtmHRkc/saregamapa975138773.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa - Bangla S03 (28 Jul 2019) Episode 91
 https://stream.mux.com/k4eaQ55VsXPCryqVhG009z8gunc372zovYZPH8JpqNho.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/s1nwmnYfiHwvsYx801dXsf4GzQwEIsrAImSjBigp01LUc/thumbnail.jpg" group-title="Sa Re Ga Ma Pa - Bangla S03",Sa Re Ga Ma Pa - Bangla S03 (27 Jul 2019) Episode 90
