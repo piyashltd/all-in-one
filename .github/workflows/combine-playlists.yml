@@ -10,6 +10,7 @@ on:
       - 'movies/**.m3u'
       - 'islamic/**.m3u'
       - 'songs/**.m3u'
+      - 'natok/**.m3u'
   schedule:
     - cron: '0 18 * * *'
   workflow_dispatch: 
@@ -34,7 +35,7 @@ jobs:
           # ==========================================
           
           # Playlists to keep at the top (Unsorted)
-          PRIORITY_FILES=("channels/fifa-world-cup.m3u" "channels/channels.m3u" "movies/movies.m3u" "islamic/gojol.m3u" "series/aa-ks-s1.m3u")
+          PRIORITY_FILES=("channels/fifa-world-cup.m3u" "natok/inedx.m3u "channels/channels.m3u" "movies/movies.m3u" "islamic/gojol.m3u" "series/aa-ks-s1.m3u")
           
           # Keyword to identify your custom series inside all-series.m3u
           CUSTOM_SERIES_KEYWORD="Kurulus Osman|Shikari Kuzgun|Sa Re Ga Ma Pa - Bangla S03|Naagin S07|Aladdin"
