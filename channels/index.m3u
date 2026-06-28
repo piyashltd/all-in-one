@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 1
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782752427~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdkVLnF_1m2Dju5_Xgh1D-kL5L0X8ufa91GQfkVr3DjRjxYfYqbnR4ALyZPp8vwBrwDhOgbfcF3q36IERFRSWsE
-#EXTINF:-1 tvg-id="muxstream" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" tvg-name="Mux Stream" group-title="🔥 FIFA World Cup 2026",FIFA WC 2
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782598613~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfBlWHFWLwTPowCcpZmRd2K-yxpF7LTA_rYdnlnNT77fQZAjFgU34GHNp73Z5bggqFFHBhA0o4nHC3wwp-z6XcC
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 3
-https://sm-monirul.top/tof/live/toffee3/index.m3u8
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 4
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl=Expires=1782615608~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvepyRED8GdmHz07d_cb91ULCpS08nNjIVfdxeM8anOaG8HQXlXQQWRaPiAiqZbFjpD0m95ghQ_hOMW579Q1BskE
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 5
-https://sm-monirul.top/tof/live/toffee5/index.m3u8
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 6
-https://sm-monirul.top/tof/live/toffee2/index.m3u8
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 7
-https://flive.pochonderbazarbd.workers.dev/1.m3u8
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 8
-https://stream.mux.com/D21l4U1J1Vjyu7kWs1Mbx5cy5DWmE802eNsRaQM5T8RM.m3u8?max_resolution=720p
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangla",Somoy TV
@@ -354,3 +338,9 @@ https://bongoflixbd.top/stream.php?id=a108c4e9-ccfa-42f2-8f8f-169ded28cca2
 http://103.229.254.25:7001/play/a06i/index.m3u8
 #EXTINF:-1 tvg-logo="https://rawgithubusercontentt.com/piyashltd/all-in-one/main/image/hum-tv_1.jpg" group-title="International Channels",Hum TV
 https://bongoflixbd.top/test/live.php?id=hum_tv&e=.m3u8
+#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 1
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782752427~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdkVLnF_1m2Dju5_Xgh1D-kL5L0X8ufa91GQfkVr3DjRjxYfYqbnR4ALyZPp8vwBrwDhOgbfcF3q36IERFRSWsE
+#EXTINF:-1 tvg-id="muxstream" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" tvg-name="Mux Stream" group-title="🔥 FIFA World Cup 2026",FIFA WC 2
+https://binge.oolcaykarael.workers.dev/1.m3u8
+#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 3
+https://sm-monirul.top/tof/live/toffee3/index.m3u8

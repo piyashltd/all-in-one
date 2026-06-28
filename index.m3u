@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url="YOUR_EPG_URL_HERE.xml"
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 1
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782752427~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdkVLnF_1m2Dju5_Xgh1D-kL5L0X8ufa91GQfkVr3DjRjxYfYqbnR4ALyZPp8vwBrwDhOgbfcF3q36IERFRSWsE
-#EXTINF:-1 tvg-id="muxstream" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" tvg-name="Mux Stream" group-title="🔥 FIFA World Cup 2026",FIFA WC 2
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782598613~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfBlWHFWLwTPowCcpZmRd2K-yxpF7LTA_rYdnlnNT77fQZAjFgU34GHNp73Z5bggqFFHBhA0o4nHC3wwp-z6XcC
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 3
-https://sm-monirul.top/tof/live/toffee3/index.m3u8
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 4
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl=Expires=1782615608~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvepyRED8GdmHz07d_cb91ULCpS08nNjIVfdxeM8anOaG8HQXlXQQWRaPiAiqZbFjpD0m95ghQ_hOMW579Q1BskE
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 5
-https://sm-monirul.top/tof/live/toffee5/index.m3u8
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 6
-https://sm-monirul.top/tof/live/toffee2/index.m3u8
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 7
-https://flive.pochonderbazarbd.workers.dev/1.m3u8
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 8
-https://stream.mux.com/D21l4U1J1Vjyu7kWs1Mbx5cy5DWmE802eNsRaQM5T8RM.m3u8?max_resolution=720p
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangla",Somoy TV
@@ -1359,6 +1343,12 @@ https://stream.mux.com/KOnEJhGqfQ2euWDUouaqMHXgCOo7iwGWIEhD1Q9psqs.m3u8
 https://stream.mux.com/KObOi3eNeO004PQx5gvN27JCHe4L4PpNRkHj5OXInVJM.m3u8
 #EXTINF:-1 tvg-logo="https://image.mux.com/IjPMs00vArqe4uONeKdCLRAB1tiE9HpUQ2R00lyVgdyno/thumbnail.jpg" group-title="Shikari Kuzgun S01",Shikari Kuzgun S01 (28 Sep 2023) Episode 13
 https://stream.mux.com/IjPMs00vArqe4uONeKdCLRAB1tiE9HpUQ2R00lyVgdyno.m3u8
+#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 1
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782752427~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdkVLnF_1m2Dju5_Xgh1D-kL5L0X8ufa91GQfkVr3DjRjxYfYqbnR4ALyZPp8vwBrwDhOgbfcF3q36IERFRSWsE
+#EXTINF:-1 tvg-id="muxstream" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" tvg-name="Mux Stream" group-title="🔥 FIFA World Cup 2026",FIFA WC 2
+https://binge.oolcaykarael.workers.dev/1.m3u8
+#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA WC 3
+https://sm-monirul.top/tof/live/toffee3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b663EwTqpJg/hq720.jpg" group-title="Nioly Alamgir & Jannatul Sumaiya Heme",Pita Putrer Boyosh
 https://archive.org/download/darama_bd10/Pita%20Putrer%20Boyosh.mp4
 #EXTINF:-1 tvg-logo="https://image.mux.com/pdLlC4zise2dUthnQMfrWSXAjMEHJX1lxQw8tGL6CIg/thumbnail.jpg" group-title="Aye Musht E Khaak S01",Aye Musht E Khaak S01 (28 Jun 2026) Episode 8
