@@ -209,7 +209,9 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-name="BBC Earth" group-title="Documentary",BBC Earth
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC Earth" group-title="Documentary",BBC Earth
+#EXTINF:-1 tvg-name="BBC Earth" group-title="Bangla",Sony Aath
+https://sm-monirul.top/toffee/play/sonyaath.m3u8
+#EXTINF:-1 tvg-name="BBC Egroup-title-title="Documentary",BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 tvg-name="Travel XP English EU" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Documentary",Travel XP English EU
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
