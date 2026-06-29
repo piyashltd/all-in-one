@@ -4,6 +4,8 @@
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782752427~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdkVLnF_1m2Dju5_Xgh1D-kL5L0X8ufa91GQfkVr3DjRjxYfYqbnR4ALyZPp8vwBrwDhOgbfcF3q36IERFRSWsE
 #EXTINF:-1 tvg-id="muxstream" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" tvg-name="Mux Stream" group-title="🔥 FIFA World Cup 2026",FIFA - OTT Binge
 https://binge.oolcaykarael.workers.dev/1.m3u8
+#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA - Somoy TV
+http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 #EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA - D Sports
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA - BEIN Sports-AR
