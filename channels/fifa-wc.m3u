@@ -1,7 +1,11 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA - OTT Toffee
-https://cdn-direct.vercel.app/index.m3u8
+#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA - Toffee 1
+https://cdn-direct.vercel.app/toffee1.m3u8
+#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA - Toffee 2
+https://cdn-direct.vercel.app/toffee2.m3u8
+#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA - Toffee 3
+https://cdn-direct.vercel.app/toffee3.m3u8
 #EXTINF:-1 tvg-id="muxstream" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" tvg-name="Mux Stream" group-title="🔥 FIFA World Cup 2026",FIFA - OTT Binge
 https://cdn-direct.vercel.app/index4.m3u8
 #EXTINF:-1 tvg-id="muxstream" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" tvg-name="Mux Stream" group-title="🔥 FIFA World Cup 2026",FIFA - Channel 1
