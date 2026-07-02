@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "name": "Sports Channels",
+      "logo": "https://i.imgur.com/example_logo1.png",
+      "m3uUrl": "https://raw.githubusercontent.com/username/repo/main/sports.m3u"
+    },
+    {
+      "name": "Movies",
+      "logo": "https://i.imgur.com/example_logo2.png",
+      "m3uUrl": "https://raw.githubusercontent.com/username/repo/main/movies.m3u"
+    },
+    {
+      "name": "News & Info",
+      "logo": "https://i.imgur.com/example_logo3.png",
+      "m3uUrl": "https://raw.githubusercontent.com/username/repo/main/news.m3u"
+    },
+    {
+      "name": "Entertainment",
+      "logo": "https://i.imgur.com/example_logo4.png",
+      "m3uUrl": "https://raw.githubusercontent.com/username/repo/main/entertainment.m3u"
+    }
+  ]
+}
