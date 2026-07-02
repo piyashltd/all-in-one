@@ -3,18 +3,20 @@
     {
       "name": "Sports Channels",
       "logo": "https://i.imgur.com/example_logo1.png",
-      "m3uUrl": "https://raw.githubusercontent.com/username/repo/main/sports.m3u"
+      "m3uUrl": "https://raw.githubusercontent.com/username/repo/main/sports.m3u",
+      "types": "normal" 
     },
     {
       "name": "Movies",
       "logo": "https://i.ibb.co.com/Ng9zLwmQ/vecteezy-cinema-picture-movie-roll-vintage-logo-design-inspiration.jpg",
-      "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/movies/index.m3u"
-      "types": "thumb"
+      "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/movies/index.m3u",
+      "types": "thumb" 
     },
     {
       "name": "News & Info",
       "logo": "https://i.imgur.com/example_logo3.png",
       "m3uUrl": "https://raw.githubusercontent.com/username/repo/main/news.m3u"
+      // এখানে types না দিলে অ্যাপ নিজে থেকেই normal ধরে নেবে
     },
     {
       "name": "Entertainment",
