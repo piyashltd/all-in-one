@@ -1,17 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA - Toffee 1
+#EXTINF:-1 tvg-name="fifa" tvg-logo="https://i.ibb.co.com/m5y4dc2P/In-Shot-20260703-142842455.jpg" group-title="🔥 FIFA World Cup 2026",FIFA - Toffee 1
 https://cdn-direct.vercel.app/toffee1.m3u8
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA - Toffee 2
+#EXTINF:-1 tvg-name="fifa" tvg-logo="https://i.ibb.co.com/m5y4dc2P/In-Shot-20260703-142842455.jpg" group-title="🔥 FIFA World Cup 2026",FIFA - Toffee 2
 https://cdn-direct.vercel.app/toffee2.m3u8
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA - Toffee 3
+#EXTINF:-1 tvg-name="fifa" tvg-logo="https://i.ibb.co.com/m5y4dc2P/In-Shot-20260703-142842455.jpg" group-title="🔥 FIFA World Cup 2026",FIFA - Toffee 3
 https://cdn-direct.vercel.app/toffee3.m3u8
-#EXTINF:-1 tvg-id="muxstream" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" tvg-name="Mux Stream" group-title="🔥 FIFA World Cup 2026",FIFA - OTT Binge
+#EXTINF:-1 tvg-id="muxstream" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB5mah8R7zABirvPgt0asec0LAyJcHylsoUI94KYtVS_1gh48T8vd53UM&s=10" tvg-name="Mux Stream" group-title="🔥 FIFA World Cup 2026",FIFA - OTT Binge
 https://cdn-direct.vercel.app/index4.m3u8
-#EXTINF:-1 tvg-id="muxstream" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" tvg-name="Mux Stream" group-title="🔥 FIFA World Cup 2026",FIFA - Channel 1
-https://cdn-direct.vercel.app/index2.m3u8
-#EXTINF:-1 tvg-id="muxstream" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" tvg-name="Mux Stream" group-title="🔥 FIFA World Cup 2026",FIFA - Channel 2
-https://cdn-direct.vercel.app/index3.m3u8
-#EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA - Somoy TV
+#EXTINF:-1 tvg-name="fifa" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/960px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png?_=20250102083708" group-title="🔥 FIFA World Cup 2026",FIFA - Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-name="fifa" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/068660250702437.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg" group-title="🔥 FIFA World Cup 2026",FIFA - D Sports
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
