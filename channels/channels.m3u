@@ -165,7 +165,7 @@ https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 #EXTINF:-1 group-title="Religious",Arihant TV
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 group-title="Bangla",G-Serise
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XZzGz1Dw/images-q-tbn-ANd9-Gc-QYHBqhxpj3pr-Yoa1-Kpdnue8z-HSNp-Ux-NADxj-Y7-HR8sxwg-s-10.jpg" group-title="Bangla",G-Serise
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla",Amar Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
