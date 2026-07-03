@@ -317,7 +317,7 @@ http://103.229.254.25:7001/play/a07m/index.m3u8
 http://103.229.254.25:7001/play/a07u/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/gazi-tv.jpg" group-title="Bangladeshi Channels",Gazi TV
 http://103.229.254.25:7001/play/a06t/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/rtv.jpg" group-title="Bangladeshi Channels",RT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/rtv.jpg" group-title="Bangladeshi Channels",RTV
 http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/image/sa-tv.jpg" group-title="Bangladeshi Channels",SA TV
 http://103.229.254.25:7001/play/a062/index.m3u8
