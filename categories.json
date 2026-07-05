@@ -3,7 +3,7 @@
     {
       "name": "Bengali Movies",
       "logo": "https://i.imgur.com/example_logo1.png",
-      "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/movies/bengali-movies.m3u",
+      "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/index.m3u",
       "types": "normal" 
     },
     {
