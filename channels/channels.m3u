@@ -41,17 +41,13 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg" group-title="Live",Deshi TV HD
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GRCWbI5ZSFg/maxresdefault.jpg" group-title="Bangla",ATN BANGLA UK
-https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png" group-title="Bangla",ATN Bangla UK
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="Bangla",Deepto TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/ABP_Ananda.jpg" group-title="Bangla",ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzhwJYDJ/DD-Bangla.jpg" group-title="Bangla",DD Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzhwJYDJ/.jpg" group-title="Bangla",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0jvYDxCp/images-q-tbn-ANd9-Gc-Qj-V-7-Imz-Zla-XI6dt-Eq-ZRi-Shx-DIc-XJwiv-SCf-Rqv7-Ug-S-g-s-10.jpg" group-title="Bangla",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
