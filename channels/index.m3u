@@ -35,7 +35,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/ntv.jpg" group-title="AKASH GO",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/ATN_Bangla1.jpg" group-title="AKASH GO",Maasranga TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/Maasranga_TV.jpg" group-title="AKASH GO",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/Channel_I_HD.jpg" group-title="AKASH GO",Channel I HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
@@ -137,16 +137,12 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/DW_English.jpg" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/RT_News_(EN).jpg" group-title="News",RT News (EN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/RT_News__EN_.jpg" group-title="News",RT News (EN)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/RTNEWS_GLOBAL.jpg" group-title="News",RTNEWS GLOBAL
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/Breaking_News.jpg" group-title="News",Breaking News
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/CNA_News.jpg" group-title="News",CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/NDTV_English.jpg" group-title="News",NDTV English
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/NDTV_Hindi.jpg" group-title="News",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/News_Max_2.jpg" group-title="News",News Max 2
