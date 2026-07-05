@@ -43,13 +43,13 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://stream.mux.com/fpSsd6IJXu02IMo02rLodoBx602ISxkIrB8xBJ88YSljgM.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/Srk-Tv_1.jpg" group-title="Bangla",Srk TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/desh-tv.jpg" group-title="Bangla",Desh TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/deshhbjjh-tv.jpg" group-title="Bangla",Desh TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-#EXTINF:-1 group-title="Bangla",Deepto TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/Deepto_TV_HD.jpg" group-title="Bangla",Deepto TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 group-title="Bangla",Deepto TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/Deepto_TV_HD.jpg" group-title="Bangla",Deepto TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 group-title="Bangla",Enter10 Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/Enter10_Bangla.jpg" group-title="Bangla",Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
@@ -65,7 +65,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF:-1 group-title="Bangla",Srk TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Channel 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/piyashltd/all-in-one/main/image/Channel_1.jpg" group-title="Bangla",Channel 1
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",G-Serise Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
