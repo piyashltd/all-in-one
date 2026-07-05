@@ -9,14 +9,14 @@
     {
       "name": "Bangla Dubbed",
       "logo": "https://i.ibb.co.com/Ng9zLwmQ/vecteezy-cinema-picture-movie-roll-vintage-logo-design-inspiration.jpg",
-      "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/movies/bangla-dubbed.m3u",
+      "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/movies/bangla-dubbed.m3u"
       "types": "normal" 
     },
     {
       "name": "Video Songs",
-      "logo": "https://i.imgur.com/example_logo3.png",
+      "logo": "https://i.ibb.co.com/Ng9zLwm6777Q/vecteezy-cinema-picture-movie-roll-vintage-logo-design-inspiration.jpg",
       "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/songs/index.m3u"
-      "types": "normal"
+      "types": "normal" 
     },
     {
       "name": "Bollywood Movies",
