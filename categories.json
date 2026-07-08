@@ -2,13 +2,13 @@
   "categories": [
     {
       "name": "Bengali Movies",
-      "logo": "https://i.imgur.com/example_logo1.png",
+      "logo": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/icons8-film-reel-100.png",
       "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/movies/bengali-movies.m3u",
       "types": "thumb" 
     },
     {
       "name": "Bangla Dubbed",
-      "logo": "https://i.ibb.co.com/Ng9zLwmQ/vecteezy-cinema-picture-movie-roll-vintage-logo-design-inspiration.jpg",
+      "logo": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/icons8-movie-100.png",
       "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/movies/bangla-dubbed.m3u",
       "types": "thumb" 
     },
@@ -20,13 +20,13 @@
     },
     {
       "name": "Bollywood Movies",
-      "logo": "https://i.imgur.com/example_logo3.png",
+      "logo": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/icons8-movie-100-1.png",
       "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/movies/bollywood-movies.m3u"
       // এখানে types না দিলে অ্যাপ নিজে থেকেই normal ধরে নেবে
     },
     {
       "name": "Hollywood Movies",
-      "logo": "https://i.imgur.com/example_logo4.png",
+      "logo": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/icons8-movie-100-2.png",
       "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/movies/hollywood-movies.m3u"
     }
   ]
