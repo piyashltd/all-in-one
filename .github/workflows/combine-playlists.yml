@@ -42,6 +42,10 @@ jobs:
           
           # ==========================================
           
+          echo "✅ Replacing Raw GitHub links with jsDelivr CDN links..."
+          find . -type f -name "*.m3u" ! -name "index.m3u" -exec sed -i 's|https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/|https://cdn.jsdelivr.net/gh/piyashltd/all-in-one@main/|g' {} +
+          find . -type f -name "*.m3u" ! -name "index.m3u" -exec sed -i 's|https://raw.githubusercontent.com/piyashltd/all-in-one/main/|https://cdn.jsdelivr.net/gh/piyashltd/all-in-one@main/|g' {} +
+
           echo "✅ Normalizing group-titles to unify variations (e.g. 'Shiva - S01' and 'Shiva S01')..."
           find . -type f -name "*.m3u" ! -name "index.m3u" -print0 | xargs -0 cat | gawk '
           /^#EXTINF/ {
@@ -202,6 +206,6 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update: Group-Title unified, Priority logic applied & Workspace cleaned"
+          commit_message: "Auto-update: CDN links replaced, Group-Title unified & Priority logic applied"
           file_pattern: 'index.m3u */index.m3u */*.m3u'
           commit_options: '--no-verify'
