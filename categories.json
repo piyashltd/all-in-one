@@ -15,7 +15,7 @@
     {
       "name": "Video Songs",
       "logo": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/icons8-music-100.png",
-      "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/songs/index.m3u",
+      "m3uUrl": "https://cdn.jsdelivr.net/gh/piyashltd/all-in-one@main/songs/index.m3u",
       "types": "thumb" 
     },
     {
