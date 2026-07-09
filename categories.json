@@ -2,32 +2,32 @@
   "categories": [
     {
       "name": "Bengali Movies",
-      "logo": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/icons8-film-reel-100.png",
-      "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/movies/bengali-movies.m3u",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/all-in-one@main/icons8-film-reel-100.png",
+      "m3uUrl": "https://cdn.jsdelivr.net/gh/piyashltd/all-in-one@main/movies/bengali-movies.m3u",
       "types": "thumb" 
     },
     {
       "name": "Bangla Dubbed",
-      "logo": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/icons8-movie-100.png",
-      "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/movies/bangla-dubbed.m3u",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/all-in-one@main/icons8-movie-100.png",
+      "m3uUrl": "https://cdn.jsdelivr.net/gh/piyashltd/all-in-one@main/movies/bangla-dubbed.m3u",
       "types": "thumb" 
     },
     {
       "name": "Video Songs",
-      "logo": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/icons8-music-100.png",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/all-in-one@main/icons8-music-100.png",
       "m3uUrl": "https://cdn.jsdelivr.net/gh/piyashltd/all-in-one@main/songs/index.m3u",
       "types": "thumb" 
     },
     {
       "name": "Bollywood Movies",
-      "logo": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/icons8-movie-100-1.png",
-      "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/movies/bollywood-movies.m3u"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/all-in-one@main/icons8-movie-100-1.png",
+      "m3uUrl": "https://cdn.jsdelivr.net/gh/piyashltd/all-in-one@main/movies/bollywood-movies.m3u"
       // এখানে types না দিলে অ্যাপ নিজে থেকেই normal ধরে নেবে
     },
     {
       "name": "Hollywood Movies",
-      "logo": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/icons8-movie-100-2.png",
-      "m3uUrl": "https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/movies/hollywood-movies.m3u"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/all-in-one@main/icons8-movie-100-2.png",
+      "m3uUrl": "https://cdn.jsdelivr.net/gh/piyashltd/all-in-one@main/movies/hollywood-movies.m3u"
     }
   ]
 }
