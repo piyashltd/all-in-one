@@ -1,7 +1,115 @@
 {
   "rules": [
     {
-      "domain": "book4u.top",
+      "domain": "server.thelegitpro.in",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "mtv.sunplex.live",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "sony.dongobd247.workers.dev",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "assets-prod.services.toffeelive.com",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "boishakhi.sonarbanglatv.com",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "pubads.g.doubleclick.net",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "streaming.madanichannel.tv",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "198.195.239.50:8095",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "app24.jagobd.com.bd",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "maxotts.maxdigitaltv.com",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "buy.ottbangla.com",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "live-dangal2.akamaized.net",
       "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
       "headers": {},
       "is_drm": false,
@@ -19,7 +127,241 @@
       "drm_key": ""
     },
     {
-      "domain": "app24.jagobd.com.bd",
+      "domain": "ekusheyserver.com",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "byphdgllyk.gpcdn.net",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "116.204.149.16",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "d2dsoyvkr33m05.cloudfront.net",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "cdn-4.pishow.tv",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "app.ncare.live",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "otapp.store",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "dwamdstream102.akamaized.net",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "live-dangal.akamaized.net",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "earnvid.assadikb.workers.dev",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "ottbpro.khankupan2.workers.dev",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "live-stream.utkalbongo.com",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "live.sanandatelevision.in",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "ftp.assadikb.workers.dev",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "ubuntu.moonplex.net:8080",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "madanitv.assadikb.workers.dev",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "cdn.dlhub4u.top",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "dzkyvlfyge.erbvr.com",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "cdn-2.pishow.tv",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "book4u.top",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "srkapp.ncare.live",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "mtlivestream.com",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "djplabon.aminmuaz636.workers.dev",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "owrcovcrpy.gpcdn.net",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "is.gd",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "dms.redbull.tv",
+      "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+      "headers": {},
+      "is_drm": false,
+      "drm_type": "",
+      "drm_license_url": "",
+      "drm_key": ""
+    },
+    {
+      "domain": "free.otapp.store",
       "user_agent": "oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
       "headers": {},
       "is_drm": false,
