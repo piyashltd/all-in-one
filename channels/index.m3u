@@ -470,7 +470,7 @@ https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-gold.png" group-title="OTAPP",Star Gold
 http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" group-title="OTAPP",Star Jalsha HD
-http://book4u.top/royr/index.php?id=STAR_JALSHA_FAAH
+http://103.179.25.147:8181/STAR_JALSHA_FAAH/index.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png" group-title="OTAPP",Star Movies
 http://198.195.239.50:8095/starMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png" group-title="OTAPP",Star Plus
