@@ -31,6 +31,25 @@ https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8
 https://tmaxapp.site/8wirwjs76erftg/tntsports3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HDPr0pf5/IMG-20260714-155113-294.jpg" group-title="Sports",TNT Sports
 https://tmaxapp.site/8wirwjs76erftg/tntsports4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/chz1H4LS/In-Shot-20260714-171335116.jpg" group-title="Bengali Entertainment",STAR Jalsha
+Http://103.179.25.147:8181/STAR_JALSHA_FAAH/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VWY3tY9g/In-Shot-20260714-171354335.jpg" group-title="Bengali Entertainment",ZEE Bangla
+https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2YRNwbTC/channels4-profile-1.jpg" group-title="Bengali Movies",ZEE Bangla Sonar
+https://stream.ottplus.bd/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3yqQkGG8/In-Shot-20260714-171431398.jpg" group-title="Bengali Entertainment",Ananda TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WvhyS5g7/In-Shot-20260714-172320305.jpg" group-title="Bengali Entertainment",Global TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.freekaj.com/assets/images/stock/image/2024/01/14/65a4440b4cc651705264139.jpg" group-title="Bengali Entertainment",RTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LDfvwFTf/In-Shot-20260714-172752488.jpg" group-title="Sports",TEN Cricket
+https://stream.ottplus.bd/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HTr9LRk/In-Shot-20260714-171413607.jpg" group-title="Bengali Entertainment",Sananda TV
+https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZ4WfJR0/In-Shot-20260714-172957402.jpg" group-title="Bengali Entertainment",Sony Aath
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gbdpdp2W/images-q-tbn-ANd9-Gc-Tc4o-Xr-Y0s-BBMOz-BWt-K64-NLM9pse6-KCVw-G-XRd8-Sz-Si-AIQ9ker9nb5-P208-s-10.jpg" group-title="Kids",Gopal Bhar https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hum TV" tvg-logo="https://i.ibb.co.com/nqDr2M3H/hum-tv.jpg" group-title="Entertainment",Hum TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR News" tvg-logo="https://i.ibb.co.com/ZRtMs0DD/star-news.jpg" group-title="News",STAR News
