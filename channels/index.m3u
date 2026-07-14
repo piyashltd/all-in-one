@@ -35,6 +35,16 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yByN6Q83/green-entertainment-tv-logo-png-seeklogo-616407.png",Green Entertainment
 https://cdn01.medialive.one:2096/GREENENTFHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7NSjWzzH/In-Shot-20260714-224726361.jpg" group-title="Bangla",Colors Bangla
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTI.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KptcVFH2/In-Shot-20260714-224712141.jpg" group-title="Bangla",Colors Bangla Cinema
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z6R58rz8/unnamed.jpg" group-title="Bangla",Jalsha Movies
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTk.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/chz1H4LS/In-Shot-20260714-171335116.jpg" group-title="Bangla",STAR Jalsha
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTg.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VWY3tY9g/In-Shot-20260714-171354335.jpg" group-title="Bangla",ZEE Bangla
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hum TV" tvg-logo="https://i.ibb.co.com/nqDr2M3H/hum-tv.jpg" group-title="Entertainment",Hum TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/chz1H4LS/In-Shot-20260714-171335116.jpg" group-title="Bengali Entertainment",STAR Jalsha
