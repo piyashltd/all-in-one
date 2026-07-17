@@ -1,4 +1,4 @@
-Name: Combine M3U Playlists
+name: Combine M3U Playlists
 
 on:
   push:
