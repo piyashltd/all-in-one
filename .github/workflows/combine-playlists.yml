@@ -1,4 +1,4 @@
-name: Combine M3U Playlists
+Name: Combine M3U Playlists
 
 on:
   push:
@@ -187,13 +187,21 @@ jobs:
                 fi
                 # --- End Special File Handling ---
                 
-                # --- General File Logic ---
+                # --- General File Logic (Modified for Songs) ---
                 if [[ $is_priority -eq 0 ]]; then
-                  echo "Sorting $file A-Z..."
-                  sort_m3u "$file" > temp_sorted.m3u
-                  cat temp_sorted.m3u >> "$folder/index.m3u"
-                  cat temp_sorted.m3u >> index.m3u
-                  rm -f temp_sorted.m3u
+                  if [[ "$folder" == "songs" ]]; then
+                    echo "Keeping original order for $file (No Sort)..."
+                    get_m3u "$file" > temp_order.m3u
+                    cat temp_order.m3u >> "$folder/index.m3u"
+                    cat temp_order.m3u >> index.m3u
+                    rm -f temp_order.m3u
+                  else
+                    echo "Sorting $file A-Z..."
+                    sort_m3u "$file" > temp_sorted.m3u
+                    cat temp_sorted.m3u >> "$folder/index.m3u"
+                    cat temp_sorted.m3u >> index.m3u
+                    rm -f temp_sorted.m3u
+                  fi
                 fi
               done
 
@@ -225,6 +233,6 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update: CDN links replaced, Group-Title unified & Songs sequentially numbered"
+          commit_message: "Auto-update: Original song order preserved with sequential numbering"
           file_pattern: 'index.m3u */index.m3u */*.m3u'
           commit_options: '--no-verify'
