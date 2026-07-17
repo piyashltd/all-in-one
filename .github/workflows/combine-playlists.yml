@@ -1,4 +1,4 @@
-name: Combine M3U Playlists
+Name: Combine M3U Playlists
 
 on:
   push:
@@ -46,7 +46,7 @@ jobs:
           find . -type f -name "*.m3u" ! -name "index.m3u" -exec sed -i 's|https://raw.githubusercontent.com/piyashltd/all-in-one/refs/heads/main/|https://cdn.jsdelivr.net/gh/piyashltd/all-in-one@main/|g' {} +
           find . -type f -name "*.m3u" ! -name "index.m3u" -exec sed -i 's|https://raw.githubusercontent.com/piyashltd/all-in-one/main/|https://cdn.jsdelivr.net/gh/piyashltd/all-in-one@main/|g' {} +
 
-          echo "✅ Normalizing group-titles to unify variations (e.g. 'Shiva - S01' and 'Shiva S01')..."
+          echo "✅ Normalizing group-titles to unify variations (e.g. 'Shiva - S01' and 'Shiva S01')...."
           find . -type f -name "*.m3u" ! -name "index.m3u" -print0 | xargs -0 cat | gawk '
           /^#EXTINF/ {
               if (match($0, /group-title="([^"]+)"/, arr)) {
@@ -196,6 +196,25 @@ jobs:
                   rm -f temp_sorted.m3u
                 fi
               done
+
+              # --- Special Post-Processing: Adding sequential numbers to songs/index.m3u ---
+              if [[ "$folder" == "songs" ]]; then
+                echo "🔢 Adding sequential numbering to songs/index.m3u..."
+                awk '
+                BEGIN { count = 1 }
+                /^#EXTINF/ {
+                    match($0, /,[^,]*$/)
+                    if (RSTART > 0) {
+                        before = substr($0, 1, RSTART)
+                        after = substr($0, RSTART + 1)
+                        $0 = before sprintf("%02d. ", count++) after
+                    }
+                }
+                { print }
+                ' "$folder/index.m3u" > temp_songs.m3u && mv temp_songs.m3u "$folder/index.m3u"
+              fi
+              # --- End Special Post-Processing ---
+
             else
               echo "Directory $folder not found. Skipping..."
             fi
@@ -206,6 +225,6 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update: CDN links replaced, Group-Title unified & Priority logic applied"
+          commit_message: "Auto-update: CDN links replaced, Group-Title unified & Songs sequentially numbered"
           file_pattern: 'index.m3u */index.m3u */*.m3u'
           commit_options: '--no-verify'
