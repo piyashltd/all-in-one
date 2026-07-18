@@ -2,12 +2,14 @@ name: Auto Update M3U Playlist
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # প্রতি ৩০ মিনিট পর পর নিজে নিজে রান করবে
-  workflow_dispatch: # ম্যানুয়ালি রান করার বাটন চালু করার জন্য
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # গিটহাবকে সরাসরি পুশ করার পারমিশন দেওয়া হলো
 
     steps:
       - name: Checkout Repository
@@ -22,6 +24,8 @@ jobs:
         run: pip install requests
 
       - name: Run Python Script
+        env:
+          GDRIVE_API_KEY: ${{ secrets.GDRIVE_API_KEY }} # আপনার সিক্রেটটি এখানে পাস করা হলো
         run: python update_m3u.py
 
       - name: Commit and Push Changes
@@ -29,6 +33,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add audio/hq-quality.m3u
-          
-          # যদি ফাইলে কোনো পরিবর্তন (নতুন গান বা ডুপ্লিকেট রিমুভ) হয়, তবেই পুশ করবে
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-updated M3U playlist & cleaned duplicates" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-updated M3U playlist via API" && git push)
