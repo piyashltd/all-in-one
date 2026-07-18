@@ -14,16 +14,25 @@ def get_drive_files():
         response = requests.get(url)
         html = response.text
         
-        # Regex দিয়ে আইডি এবং নাম বের করা
-        pattern = r'\["([a-zA-Z0-9_-]{25,35})","([^"]+\.(?:flac|mp3|m4a|wav|ogg))"'
-        matches = re.findall(pattern, html)
-        
         drive_files = []
         seen = set()
+
+        # নতুন এবং আরও ফ্লেক্সিবল Regex প্যাটার্ন
+        # এটি সোর্স কোড থেকে ফাইলের নাম (যেকোনো অডিও ফরম্যাট) এবং তার ঠিক আগের আইডি খুঁজবে
+        pattern = r'\["([a-zA-Z0-9_-]{25,35})","([^"]+\.(?:flac|mp3|m4a|wav|ogg|FLAC|MP3))"'
+        matches = re.findall(pattern, html)
+        
+        # যদি উপরের প্যাটার্ন কাজ না করে, বিকল্প প্যাটার্ন চেক করবে
+        if not matches:
+            pattern2 = r'\["([a-zA-Z0-9_-]{28,33})"\]\s*,\s*\["([^"]+\.(?:flac|mp3|m4a|wav|ogg|FLAC|MP3))"'
+            matches = re.findall(pattern2, html)
+
         for file_id, filename in matches:
             if file_id not in seen:
                 drive_files.append({"id": file_id, "name": filename})
                 seen.add(file_id)
+                
+        print(f"Found {len(drive_files)} files in Drive.")
         return drive_files
     except Exception as e:
         print(f"Scraping Error: {e}")
@@ -73,7 +82,7 @@ def clean_and_update_m3u():
             unique_links.add(raw_link)
             new_added += 1
 
-    # নতুন আপডেট হওয়া কন্টেন্ট ফাইলে সেভ করা (ফোল্ডার না থাকলে তৈরি করে নেবে)
+    # নতুন আপডেট হওয়া কন্টেন্ট ফাইলে সেভ করা
     os.makedirs(os.path.dirname(FILE_PATH), exist_ok=True)
     with open(FILE_PATH, "w", encoding="utf-8") as f:
         f.write("\n".join(cleaned_m3u) + "\n")
