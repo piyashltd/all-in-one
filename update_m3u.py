@@ -1,51 +1,34 @@
 import os
 import requests
-import re
 
 # --- কনফিগারেশন ---
 FILE_PATH = "audio/hq-quality.m3u"
 FOLDER_ID = "1TW4p81uwcOMlY_YSZAej-f0NaZIa6wTb"
 DEFAULT_LOGO = "https://i.ibb.co.com/v4wpmy1X/In-Shot-20260718-152636973.jpg"
+API_KEY = os.environ.get("GDRIVE_API_KEY")
 
 def get_drive_files():
-    """ড্রাইভ ফোল্ডার থেকে ফাইল স্ক্র্যাপ করবে"""
-    url = f"https://drive.google.com/drive/folders/{FOLDER_ID}"
+    """Google Drive API ব্যবহার করে নির্ভুলভাবে ফাইল লিস্ট আনবে"""
+    url = f"https://www.googleapis.com/drive/v3/files?q='{FOLDER_ID}'+in+parents+and+trashed=false&fields=files(id,name)&key={API_KEY}"
+    
     try:
         response = requests.get(url)
-        html = response.text
-        
-        drive_files = []
-        seen = set()
-
-        # নতুন এবং আরও ফ্লেক্সিবল Regex প্যাটার্ন
-        # এটি সোর্স কোড থেকে ফাইলের নাম (যেকোনো অডিও ফরম্যাট) এবং তার ঠিক আগের আইডি খুঁজবে
-        pattern = r'\["([a-zA-Z0-9_-]{25,35})","([^"]+\.(?:flac|mp3|m4a|wav|ogg|FLAC|MP3))"'
-        matches = re.findall(pattern, html)
-        
-        # যদি উপরের প্যাটার্ন কাজ না করে, বিকল্প প্যাটার্ন চেক করবে
-        if not matches:
-            pattern2 = r'\["([a-zA-Z0-9_-]{28,33})"\]\s*,\s*\["([^"]+\.(?:flac|mp3|m4a|wav|ogg|FLAC|MP3))"'
-            matches = re.findall(pattern2, html)
-
-        for file_id, filename in matches:
-            if file_id not in seen:
-                drive_files.append({"id": file_id, "name": filename})
-                seen.add(file_id)
-                
-        print(f"Found {len(drive_files)} files in Drive.")
-        return drive_files
+        if response.status_code != 200:
+            print(f"API Error: {response.text}")
+            return []
+            
+        data = response.json()
+        return data.get('files', [])
     except Exception as e:
-        print(f"Scraping Error: {e}")
+        print(f"Error fetching files: {e}")
         return []
 
 def clean_and_update_m3u():
-    # ফাইল আগে থেকে থাকলে সেটা পড়া
     existing_lines = []
     if os.path.exists(FILE_PATH):
         with open(FILE_PATH, "r", encoding="utf-8") as f:
             existing_lines = f.read().strip().splitlines()
 
-    # বর্তমান ডেটা থেকে ডুপ্লিকেট রিমুভ করে ফ্রেশ লিস্ট তৈরি করা
     unique_links = set()
     cleaned_m3u = ["#EXTM3U"]
     
@@ -64,17 +47,20 @@ def clean_and_update_m3u():
                 continue
         i += 1
 
-    # ড্রাইভ থেকে নতুন গান চেক করা
-    print("Scraping Drive...")
+    print("Fetching new songs from Drive API...")
     drive_files = get_drive_files()
     
     new_added = 0
     for file in drive_files:
+        # শুধু অডিও ফাইলগুলো ফিল্টার করা
+        filename = file['name']
+        if not filename.lower().endswith(('.flac', '.mp3', '.m4a', '.wav')):
+            continue
+            
         raw_link = f"https://drive.google.com/uc?export=download&id={file['id']}"
         
-        # যদি লিংকটি আগে না থাকে, তবেই যোগ করবে
         if raw_link not in unique_links:
-            title = os.path.splitext(file['name'])[0].strip()
+            title = os.path.splitext(filename)[0].strip()
             
             cleaned_m3u.append(f'#EXTINF:-1 tvg-logo="{DEFAULT_LOGO}",{title}')
             cleaned_m3u.append(raw_link)
@@ -90,4 +76,7 @@ def clean_and_update_m3u():
     print(f"Cleaned duplicates. Added {new_added} new songs.")
 
 if __name__ == "__main__":
-    clean_and_update_m3u()
+    if not API_KEY:
+        print("Error: GDRIVE_API_KEY is not set in secrets!")
+    else:
+        clean_and_update_m3u()
