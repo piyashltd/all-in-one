@@ -19,6 +19,12 @@
       "types": "thumb" 
     },
     {
+      "name": "Lossless Audio",
+      "logo": "https://all-in-one-14ux.vercel.app/icons8-music-100.png",
+      "m3uUrl": "https://all-in-one-14ux.vercel.app/audio/hq-quality.m3u",
+      "types": "thumb" 
+    },
+    {
       "name": "Bollywood Movies",
       "logo": "https://all-in-one-14ux.vercel.app/icons8-movie-100-1.png",
       "m3uUrl": "https://all-in-one-14ux.vercel.app/movies/bollywood-movies.m3u"
